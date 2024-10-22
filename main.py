@@ -4,10 +4,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from utils import decode_unicode_escapes, extract_lat_long
 import time
 import json
 import logging
-from utils import decode_unicode_escapes, extract_lat_long
 
 
 search_text = input('Insira a busca: ').strip()
