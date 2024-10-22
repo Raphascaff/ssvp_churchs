@@ -1,0 +1,4730 @@
+[
+    {
+        "Parish_Name": "São Paulo Apóstolo",
+        "Parish_Community": "Área Pastoral São Paulo Apóstolo",
+        "Address": "Rua Comandante Taylor, 1507, Ipiranga",
+        "Phone": "Tel: (11) 2215-3614"
+    },
+    {
+        "Parish_Name": "Paróquia São Luiz Gonzaga",
+        "Parish_Community": "Comunidade Imaculada Conceição do Centro de Tradições Nordestinas - CTN",
+        "Address": "Rua Jacofér, 615, Limão",
+        "Phone": "Tel: (11) 3936-5356"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima E São Roque",
+        "Parish_Community": "Capela da Ressurreição (Ossário)",
+        "Address": "",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade Itinerantes Armação",
+        "Address": "",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Nossa Senhora da Salette",
+        "Address": "Travessa Igarapé Progres, 71 A, Jardim Filhos da Terra",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade Nossa Senhora de Lourdes",
+        "Address": "Rua Maria Roque, 435, Imirim",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Candelária",
+        "Parish_Community": "Comunidade Nossa Senhora do Carmo e São Pedro Claver",
+        "Address": "Rua Severa, 64, Vila Maria",
+        "Phone": "Tel: (11) 2955-6782"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Paz",
+        "Parish_Community": "Comunidade Nossa Senhora Mãe da Igreja",
+        "Address": "Rua Miguel Ribas, 249, Jardim Ipanema (Zona Oeste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Paulina",
+        "Parish_Community": "Comunidade Santa Clara",
+        "Address": "Rua Glória de Heliópolis, 54, Heliópolis",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora e Santa`Ana",
+        "Parish_Community": "Comunidade Sant´Ana",
+        "Address": "Rua Barão de Santo Ângelo, 365, Jardim do Tiro",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha Do Menino Jesus",
+        "Parish_Community": "Comunidade São Gabriel Arcanjo",
+        "Address": "Avenida Mendes da Rocha, 1770, Jaçanã",
+        "Phone": "Tel: (11) 2241-6329"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Lourdes",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Alameda dos Guaiós, 75, Planalto Paulista",
+        "Phone": "Tel: (11) 2275-3068"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Penha",
+        "Parish_Community": "Comunidade São Luís de França",
+        "Address": "Rua Nove de Novembro, 335, Vila Amélia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia de Sant'Ana",
+        "Parish_Community": "Basílica - Basílica de Sant'Ana",
+        "Address": "Rua Voluntários da Pátria, 2060, Santana",
+        "Phone": "Tel: (11) 2281-9085, Tel: (11) 2979-5558"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Aliança",
+        "Address": "Rua Coronel João de Oliveira Melo, 784, Vila Antonieta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Belém",
+        "Parish_Community": "Comunidade Associação Privada de Fiéis Missão Belém",
+        "Address": "Rua Nelson Cruz, 10, Brás",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Assunção de Nossa Senhora",
+        "Parish_Community": "Matriz Paroquial Assunção de Nossa Senhora",
+        "Address": "Alameda Lorena, 665A, Jardim Paulista",
+        "Phone": "Tel: (11) 3885-9965"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade Beatíssima Virgem",
+        "Address": "Travessa Flaminio Bellini, 215, Recanto Verde do Sol",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Beato José de Anchieta",
+        "Address": "Rua Professor Antônio Sampaio Dória, 345, Jardim Nove de Julho",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Beato Pe. José de Anchieta",
+        "Address": "Rua Taquaruçu, 369, Vila Parque Jabaquara",
+        "Phone": "Tel: (11) 5011-9239"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Dos Prazeres",
+        "Parish_Community": "Comunidade Bem Aventurado Cláudio Granzotto",
+        "Address": "Avenida Álvaro Machado Pedrosa, 524, Parada Inglesa",
+        "Phone": "Tel: (11) 2209-4403"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Consolata",
+        "Parish_Community": "Comunidade Bem-Aventurado José Allamano",
+        "Address": "Rua Bento de Alvarenga, 15-A, Vila Bianca",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Bom Jesus",
+        "Parish_Community": "Matriz Paroquial Bom Jesus",
+        "Address": "Avenida Rangel Pestana, 1421, Brás",
+        "Phone": "Tel: (11) 3229-1404, Tel: (11) 3326-4684"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Bom Jesus do Morro",
+        "Address": "Rua Herculano José dos Santos, 713, Jardim Anhanguera",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Bom Jesus dos Milagres",
+        "Address": "Rua Asa Branca, 102, Vila Nova Jaguaré",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Bom Jesus dos Passos",
+        "Parish_Community": "Matriz Paroquial Bom Jesus Dos Passos",
+        "Address": "Rua Professor João Machado, 856, Nossa Senhora do Ó",
+        "Phone": "Tel: (11) 3976-4527"
+    },
+    {
+        "Parish_Name": "Paróquia São Benedito",
+        "Parish_Community": "Comunidade Bom Pastor",
+        "Address": "Rua da Paz, 22, Jardim Portal I e II",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Jesus No Horto Das Oliveiras",
+        "Parish_Community": "Comunidade Bom Pastor",
+        "Address": "Rua Laurindo Sbampato, 61, Vila Guilherme",
+        "Phone": "Tel: (11) 2218-1007"
+    },
+    {
+        "Parish_Name": "Paróquia Bom Pastor",
+        "Parish_Community": "Matriz Paroquial Bom Pastor",
+        "Address": "Avenida Manoel Bolívar, 22, Jardim Carombé",
+        "Phone": "Tel: (11) 3921-0548"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Piedade",
+        "Parish_Community": "Comunidade Bom Pastor",
+        "Address": "Rua Nucleo do Engordador, 16.423, Núcleo do Engordador",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Dores",
+        "Parish_Community": "Comunidade Bom Pastor",
+        "Address": "Rua Joaquim Gonçalves Rocha, 357, Jardim Brasília (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Bom Samaritano",
+        "Address": "Rua Felipe Cardoso de Campos, 544, Vila Caiúba",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Edwiges",
+        "Parish_Community": "Comunidade Capela Da Reconciliação",
+        "Address": "Rua Marechal Pimentel, 54, Sacomã",
+        "Phone": "Tel: (11) 2274-2853"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Neves",
+        "Parish_Community": "Comunidade Capela das Almas",
+        "Address": "Avenida Guapira, 878, Tucuruvi",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Casa De Animação Missionária",
+        "Address": "Rua Doutor Pedro Ernesto, 35 A, Vila Continental",
+        "Phone": "Tel: (11) 2232-2383"
+    },
+    {
+        "Parish_Name": "Paróquia São Rafael",
+        "Parish_Community": "Capela Clube Juventus",
+        "Address": "Rua Comendador Roberto Ugolini, 20, Parque da Mooca",
+        "Phone": "Tel: (11) 2271-2000"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Santana",
+        "Parish_Community": "Capela Colégio Salesiano Santa Terezinha",
+        "Address": "Praça Domingos Correia da Cruz, 140, Santana",
+        "Phone": "Tel: (11) 2971-6900, Tel: (11) 2979-8161"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Coração Eucarístico de Jesus",
+        "Address": "Rua Luísa Maria Rosa, 306, Vila Sulina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Coração Eucarístico de Jesus e Santa Marina",
+        "Parish_Community": "Matriz Paroquial Coração Eucarístico de Jesus e Santa Marina",
+        "Address": "Rua Engenheiro Pegado, 374, Vila Carrão",
+        "Phone": "Tel: (11) 2296-4246, Tel: (11) 2941-0695"
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Jovem",
+        "Parish_Community": "Matriz Paroquial Cristo Jovem",
+        "Address": "Largo da Lapa, 106, Lapa de Baixo",
+        "Phone": "Tel: (11) 3611-6067"
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Libertador",
+        "Parish_Community": "Matriz Paroquial Cristo Libertador",
+        "Address": "Travessa Leonardo Gandara, 123, Conjunto Habitacional Brigadeiro Eduardo Gomes",
+        "Phone": "Tel: (11) 3971-3034"
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Capela Cristo Operário",
+        "Address": "Rua Vergueiro, 7290, Vila Firmiano Pinto",
+        "Phone": "Tel: (11) 3881-8805, Tel: (11) 3881-8823"
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Cristo Rei",
+        "Address": "Rua Major Freire, 792, Vila Monte Alegre",
+        "Phone": "Tel: (11) 5589-8984, Tel: (11) 2275-2868"
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade Cristo Rei",
+        "Address": "Rua Miguel Ângelo Lupi, 89, Vila Roque",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Joana D´Arc",
+        "Parish_Community": "Comunidade Cristo Rei",
+        "Address": "Rua Capitão Alberto Mendes Júnior, 274, Água Fria",
+        "Phone": "Tel: (11) 2950-0274"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Cristo Rei",
+        "Address": "Rua Lima Cantuária, 229, Vila Industrial",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Matriz Paroquial Cristo Rei",
+        "Address": "Rua Diego Velasquez, 368, Jardim Britânia",
+        "Phone": "Tel: (11) 3911-1038"
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Matriz Paroquial Cristo Rei do Tatuapé",
+        "Address": "Rua Maria Eugênia, 104, Tatuapé",
+        "Phone": "Tel: (11) 2295-1685, Tel: (11) 2097-1519"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Cristo Ressucitado",
+        "Address": "Rua Campo Alegre de Minas, 244, Ladeira Rosa",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Comunidade Cristo Ressuscitado",
+        "Address": "Rua Paschoal Leite Paes, 130, Vila Mendes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade D.Oscar Romero",
+        "Address": "Rua Couraça, 456, Jardim das Rosas (Zona Leste I)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Da Mãe Três Vezes Admirável",
+        "Address": "Rua Dr. Diogo de Faria, 251, Vl. Clementino",
+        "Phone": "Tel: (11) 5571-5625"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja das Chagas do Seráphico Pai São Francisco",
+        "Address": "Largo São Francisco, 173, Sé",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Divino Espirito",
+        "Address": "Rua Lourenço Leme da Silva, 169, Jardim Ondina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Comunidade Divino Espírito Santo",
+        "Address": "Rua Gaivota, 117B, Recanto Paraíso",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Matriz Paroquial Divino Espírito Santo",
+        "Address": "Avenida Arquiteto Vilanova Artigas, 1185, Conjunto Habitacional Teotonio Vilela",
+        "Phone": "Tel: (11) 2705-7612"
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Comunidade Divino Espírito Santo",
+        "Address": "Mendes Freire, 148, Jd . Laranjeiras",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Divino Espírito Santo",
+        "Address": "Travessa Tardes de Lindóia, 12, Jardim da Conquista (Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Divino Espírito Santo",
+        "Address": "Rua Doutor Paulo Queiroz, 503, Jardim Nove de Julho",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Divino Espírito Santo",
+        "Address": "Estrada do Sabão, 885, Jardim Maristela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Divino Espírito Santo",
+        "Address": "Rua Cabruê, 273, Vila Califórnia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Matriz Paroquial Divino Espírito Santo",
+        "Address": "Rua Frei Caneca, 1047, Consolação",
+        "Phone": "Tel: (11) 3285-4483"
+    },
+    {
+        "Parish_Name": "Paróquia Bom Pastor",
+        "Parish_Community": "Comunidade Divino Pai Eterno",
+        "Address": "Rua Desembargador Lauro Malheiro, 8, Jardim Paulistano (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Divino Salvador",
+        "Parish_Community": "Matriz Paroquial Divino Salvador",
+        "Address": "Rua Casa do Ator, 450, Vila Olímpia",
+        "Phone": "Tel: (11) 3578-0628"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Do Hospital da Alvorada",
+        "Address": "Av. Min. Gabriel de Resende Passos, 550, Moema",
+        "Phone": "Tel: (11) 2186-9900"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Capela Dom Bosco",
+        "Address": "Rua Dom Bosco, 441, Mooca",
+        "Phone": "Tel: (11) 3274-4900"
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Comunidade Dom Oscar Romero",
+        "Address": "Rua João Antônio de Macedo, 29, Conjunto Residencial Jardim Canaã",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena",
+        "Parish_Community": "Comunidade Dom Oscar Romero e Santa Luzia",
+        "Address": "Rua Iaque, 100, Parque Santa Madalena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Bosco",
+        "Parish_Community": "Comunidade Eclesial de Base Boaçava",
+        "Address": "Avenida Bagiru, 100, Boaçava",
+        "Phone": "Tel: (11) 3022-6871"
+    },
+    {
+        "Parish_Name": "Paróquia Espírito Santo",
+        "Parish_Community": "Matriz Paroquial Espírito Santo",
+        "Address": "Rua Nícia Coutinho Patrício, 415, Vila Penteado",
+        "Phone": "Tel: (11) 3851-7941"
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade Espírito Santo",
+        "Address": "Rua Vale-Verde, 103, Vila Roque",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Espírito Santo",
+        "Address": "Rua Presidente Félix Paiva, 310, Jardim Jaraguá (Km22)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Francesa De São Francisco De Sales",
+        "Parish_Community": "Matriz Paroquial Francesa de São Francisco de Sales",
+        "Address": "Rua Mairinque, 256, Vila Clementino",
+        "Phone": "Tel: (11) 5571-4609"
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade Frei Galvão",
+        "Address": "Rua Miguel Ferreira de Melo, 26, Jardim Santo André",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Frei Tito de Alencar",
+        "Address": "Rua José Vieira do Rio, 68, Parque São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Girassol",
+        "Address": "Avenida Domingos Antônio Di Sandro, 260, Vila Fanton",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Luiz Gonzaga",
+        "Parish_Community": "Capela Hospital Dom Pedro II",
+        "Address": "Avenida Guapira, 2.674, Tucuruvi",
+        "Phone": "Tel: (11) 2176-1224"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Matriz Paroquial Imaculada Conceição",
+        "Address": "Avenida Nazaré, 993, Ipiranga",
+        "Phone": "Tel: (11) 2914-4066"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Matriz Paroquial Imaculada Conceição",
+        "Address": "Rua José Barbosa da Silva, 31, Jardim Sapopemba",
+        "Phone": "Tel: (11) 2011-8131"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Imaculada Conceição",
+        "Address": "Rua Padre Antônio de Gennaro, 240, Vila Cristália",
+        "Phone": "Tel: (11) 9487-1539"
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Imaculada Conceição",
+        "Address": "Travessa Sangue Latino, 354, Jardim da Conquista (Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Esperança",
+        "Parish_Community": "Comunidade Imaculada Conceição",
+        "Address": "Avenida Engenheiro Feijó Bittencourt, 695, Vila Primavera",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade Imaculada Conceição",
+        "Address": "Travessa Flamínio Bellini Carri, 215, Recanto Verde do Sol",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Imaculada Conceição",
+        "Address": "Rua Chacoene, 32, Vila Alpina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Matriz Paroquial Imaculada Conceição",
+        "Address": "Avenida Nazaré, 993, Ipiranga",
+        "Phone": "Tel: (11) 2914-4066"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Ângela E São Serapião",
+        "Parish_Community": "Comunidade Imaculada Conceição",
+        "Address": "Rua Prof. José Frederico de Borba, 137, Vila Brasilina",
+        "Phone": "Tel: (11) 5058-5058, Tel: (11) 5073-3336"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Matriz Paroquial Imaculada Conceição",
+        "Address": "Avenida Brigadeiro Luís Antônio, 2071, Bela Vista",
+        "Phone": "Tel: (11) 3288-6565"
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Imaculada da Conceição e Padre João B. P. Bournier",
+        "Address": "Rua Arão Reis, 454, Jardim São Cristóvão",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Imaculado Coração de Maria",
+        "Address": "Rua das Oiticicas, 679, Vila Parque Jabaquara",
+        "Phone": "Tel: (11) 5012-5120"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração de Maria",
+        "Parish_Community": "Matriz Paroquial Imaculado Coração de Maria",
+        "Address": "Rua Jaguaribe, 735, Vila Buarque",
+        "Phone": "Tel: (11) 3666-0756, Tel: (11) 3661-4077"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Matriz Paroquial Imaculado Coração De Maria",
+        "Address": "Avenida Rodolfo Pirani, 445, Jardim Rodolfo Pirani",
+        "Phone": "Tel: (11) 2753-1273"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Matriz Paroquial Imaculado Coração De Maria",
+        "Address": "Rua Pasqual D'Amore, 23, Jardim Princesa",
+        "Phone": "Tel: (11) 3981-3107"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração de Maria",
+        "Parish_Community": "Matriz Paroquial Imaculado Coração de Maria (PUC-SP)",
+        "Address": "Rua Monte Alegre, 948, Perdizes",
+        "Phone": "Tel: (11) 3862-2498"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima E São Roque",
+        "Parish_Community": "Comunidade Jesus de Nazaré",
+        "Address": "Travessa Dolores Lima, 32, Jardim Guiomar",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Jesus No Horto Das Oliveiras",
+        "Parish_Community": "Matriz Paroquial Jesus No Horto Das Oliveiras",
+        "Address": "Rua Gabriel Orefice, 256, Vila Guilherme",
+        "Phone": "Tel: (11) 4106-1287"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Jesus Ressuscitado",
+        "Address": "Rua Eduardo de Martino, 137, Cidade São Mateus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Jesus Ressuscitado",
+        "Parish_Community": "Matriz Paroquial Jesus Ressuscitado",
+        "Address": "Plutão, 61, Jd. Satélite Santa Bárbara",
+        "Phone": "Tel: (11) 2919-2347"
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Comunidade João Bosco Bournier",
+        "Address": "Rua Bombachas, 54, Parque Santa Madalena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade João XXIII",
+        "Address": "Rua Romildo Finozzi, 333, Jardim Catarina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha Do Menino Jesus",
+        "Parish_Community": "Comunidade Mãe Peregrina",
+        "Address": "Rua Palmira Barbosa, 295, Jaçanã",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Bosco",
+        "Parish_Community": "Comunidade Mãe Rainha",
+        "Address": "Avenida Padre Pereira de Andrade, 545, Boaçava",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Comunidade Mãe Rainha",
+        "Address": "Rua Antonio Simplício, 174B, Jardim Tremembé",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Comunidade Mãe Rainha",
+        "Address": "Diogo Gonçalves, 23, Vila Pereira Cerca",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mãe, Rainha e Vencedora Três Vezes Admirável de Schoenstatt",
+        "Parish_Community": "Santuário Mãe, Rainha e Vencedora Três Vezes Admirável de Schoenstatt",
+        "Address": "Rua Galvão Bueno Trigueirinho, 764, Jaraguá",
+        "Phone": "Tel: (11) 2364-8869, Tel: (11) 9455-0020"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Maria de Nazaré",
+        "Address": "Rua Lycurgo Antônio de Souza, 233, Vila Scimidt",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Maria de Nazaré",
+        "Address": "Rua João Pinto Ferreira, 130, Jardim Russo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Maria de Nazaré",
+        "Address": "Rua Lycurgo Antônio de Souza, 233, Vila Scimidt",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade Maria de Nazaré e Santo Expedito",
+        "Address": "Rua Engenheiro Enrico Battioli, 245, Vila Basileia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresinha Do Menino Jesus",
+        "Parish_Community": "Comunidade Maria Imaculada",
+        "Address": "Rua Guaripé, 163, Vila do Bosque",
+        "Phone": "Tel: (11) 2578-7086, Tel: (11) 5584-0555"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Maria Imaculada (Colégio)",
+        "Address": "Travessa Alberto Napolitano, 711, Ipiranga",
+        "Phone": "Tel: (11) 2063-4007"
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Libertador",
+        "Parish_Community": "Comunidade Maria Libertadora",
+        "Address": "Rua Dourada (CJ Hab Brasilândia B), 61, Vila Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Maria Mãe dos Migrantes",
+        "Address": "Rua Francisco Marques, 348, Parque São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Do Belém",
+        "Parish_Community": "Comunidade Maria Zélia",
+        "Address": "Sebastião Pereira de Souza, 15, Belenzinho",
+        "Phone": "Tel: (11) 2618-1180"
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Menino Deus",
+        "Address": "Rua Capetinga, 25, Jardim Paraguaçu",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Menino Deus",
+        "Parish_Community": "Matriz Paroquial Menino Deus",
+        "Address": "Avenida dos Pequis, 325, Jardim Vila Formosa",
+        "Phone": "Tel: (11) 2216-0937, Tel: (11) 2211-1750"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Menino Jesus",
+        "Address": "Rua Coronel Julião de Moura Negrão, 18, Jardim Russo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Menino Jesus",
+        "Parish_Community": "Matriz Paroquial Menino Jesus",
+        "Address": "Avenida Mazzei, 491, Tucuruvi",
+        "Phone": "Tel: (11) 2203-6185"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja Menino Jesus e Santa Luzia",
+        "Address": "Rua Tabatinguera, 104, Sé",
+        "Phone": "Tel: (11) 3104-8032"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Monte das Oliveiras",
+        "Address": "Rua José Correia Picanço, 8, Perus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Natividade de Maria",
+        "Address": "Travessa La Violeteira, 42, Jardim da Conquista (Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio de Pádua",
+        "Parish_Community": "Comunidade Natividade do Senhor",
+        "Address": "Rua Doutor Álvaro Osório de Almeida, 171, Jd.Universidade de São Paulo",
+        "Phone": "Tel: (11) 3733-9721"
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Matriz Paroquial Natividade Do Senhor",
+        "Address": "Avenida Antônio Buono, 62, Vila Guarani(Zona Leste)",
+        "Phone": "Tel: (11) 2216-2563, Tel: (11) 2115-4864"
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Matriz Paroquial Natividade Do Senhor",
+        "Address": "Rua Augusto Rodrigues, 683 / ANTIGO 2200, Jardim Fontalis",
+        "Phone": "Tel: (11) 2995-7422, Tel: (11) 2992-1436"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Edwiges",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Coronel Silva Castro, 135, Nova Heliópolis",
+        "Phone": "Tel: (11) 2068-8835"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Consolata",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Consolata",
+        "Address": "Rua Leão XIII, 303, Jardim São Bento",
+        "Phone": "Tel: (11) 2256-5600"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Comunidade Nossa Senhora da Paz",
+        "Address": "Rua Tiro ao Pombo, 231, Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Achiropita",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Achiropita",
+        "Address": "Rua Treze de Maio, 478, Bela Vista",
+        "Phone": "Tel: (11) 3106-7235"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Viela N.Sra .Aparecida, 13, Favela Nova Divinéia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Estevão Rei",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Avenida Raimundo Pereira de Magalhães, 1720 Bl. 10/AP. 12, Jardim Íris",
+        "Phone": "Tel: (11) 3831-2634"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Assum-Preto, 53, Vila Nova Jaguaré",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Jacaraípe, s/n, Quinta da Paineira",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Rua Lemos Conde, 20, Alto de Pinheiros",
+        "Phone": "Tel: (11) 3815-3039, Tel: (11) 3816-0709"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Praça Antônio Alves Vilares da Silva, 13, Vila Nova York",
+        "Phone": "Tel: (11) 2721-9515"
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Avenida Doutor Frederico Martins da Costa Carvalho, 968, Jardim Planalto",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Apuanã, s/n, Jardim Apuanã",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Paz",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Alameda dos Pinheiros, s/n, Conjunto Residencial Alpes do Jaraguá",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Rua Lemos Conde, 20, Alto de Pinheiros",
+        "Phone": "Tel: (11) 3815-3039, Tel: (11) 3816-0709"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Viela N.Sra .Aparecida, 13, Favela Nova Divinéia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Gervásio Leite Rebelo, 1299, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Rua Félix Della Rosa, 524, Vila Anglo Brasileira",
+        "Phone": "Tel: (11) 3865-4047"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Rua Luciano D'Amore, 47, Vila Francos",
+        "Phone": "Tel: (11) 3851-1908"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Jacaraípe, s/n, Quinta da Paineira",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Bom Pastor",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Rosalvo José da Silva, 154, Jardim Carombé",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Dores",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Baltazar de Campos, 124, Jardim Lider",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Rua Epiacaba, 590, Vila Arapuá",
+        "Phone": "Tel: (11) 2946-0634"
+    },
+    {
+        "Parish_Name": "Paróquia Jesus Ressuscitado",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Frutos de Maio, s/nº, Vila Bela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Adélia",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Fernando Pinheiro, 181, Jardim Santa Adélia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Maria Nazaro da Silva, 467, Sítio Morro Grande",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Professor Almeida Porto, 64, Jardim Maria Estela",
+        "Phone": "Tel: (11) 2331-7746, Tel: (11) 2331-7324"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Praça Nossa Senhora Aparecida, s/nº, Moema",
+        "Phone": "Tel: (11) 5052-4919, Tel: (11) 5052-4918"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Principal, 287, Parque Vila Maria",
+        "Phone": "Tel: (11) 2967-1762"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Avenida do Oratório, 6276, Jardim Ângela (Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Avenida Professor Abraão de Morais, 1446, Cingapura",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora e Santa`Ana",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Professor Andrioli, 372, Parque São Luís",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Lourdes Maria Wanderley Pontes, 32, Conjunto Habitacional Jova Rural",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Frederica Brum, 14, Conjunto Habitacional Vila Nova Cachoeirinha",
+        "Phone": "Tel: (11) 2238-9589"
+    },
+    {
+        "Parish_Name": "Paróquia São José de Vila Zelina",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Jacaraípe, s/nº, Quinta da Paineira",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Praça Vinte e Cinco de Novembro, 53, Vila Zat",
+        "Phone": "Tel: (11) 3974-9926"
+    },
+    {
+        "Parish_Name": "Paróquia São Tomás More",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua George Bernardo de Lima, 39, Jardim Rio Pequeno",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Particular Cinco, s/n, Jardim Elizabeth",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Ipeca-Guaçu, 228, Parque Santa Madalena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Avenida Professor Abraão de Morais, 1446, Cingapura",
+        "Phone": "Tel: (11) 5072-3792"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Penha",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Condessa Amália Matarazzo, 13, Jardim Peri",
+        "Phone": "Tel: (11) 2258-3555"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Diego Caseros, 8, Jardim Damasceno",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Adélia",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Fernando Pinheiro, 181, Jardim Santa Adélia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Jesus Ressuscitado",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Frutos de Maio, s/nº, Vila Bela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Ipeca-Guaçu, 228, Parque Santa Madalena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Paz",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Alameda dos Pinheiros, s/n, Conjunto Residencial Alpes do Jaraguá",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Avenida Otaviano Alves de Lima, 1752, Nossa Senhora do Ó",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Viela N.Sra .Aparecida, 13, Favela Nova Divinéia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Gervásio Leite Rebelo, 1299, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Bom Pastor",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Rosalvo José da Silva, 154, Jardim Carombé",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Jacaraípe, s/n, Quinta da Paineira",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Praça Vinte e Cinco de Novembro, 53, Vila Zat",
+        "Phone": "Tel: (11) 3974-9926"
+    },
+    {
+        "Parish_Name": "Paróquia São Tomás More",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua George Bernardo de Lima, 39, Jardim Rio Pequeno",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Particular Cinco, s/n, Jardim Elizabeth",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Doutor Artur Fajardo, 555, Chácara Nossa Senhora Aparecida",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida",
+        "Address": "Praça Comandante Eduardo de Oliveira, 88, Parque Edu Chaves",
+        "Phone": "Tel: (11) 2249-2432, Tel: (11) 2247-1184"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "1, 220, Jardim Apuanã",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora e Santa`Ana",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua Professor Andrioli, 372, Parque São Luís",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Esperança",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida",
+        "Address": "Rua James Nares, 51, Parque dos Bancários",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida e Dom Luciano",
+        "Address": "Av. Marginal do Oratório, 204, Jardim Elba",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Nossa Senhora Aparecida (Colégio)",
+        "Address": "Alameda Jauaperi, 416, Moema",
+        "Phone": "Tel: (11) 5054-4399"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe De Deus",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida (Trivelato)",
+        "Address": "Avenida Otaviano Alves de Lima, 3600, Freguesia do Ó",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida - Aparecidinha",
+        "Address": "Rua Almotacel, 1260, Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida Da Boa Viagem",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida Da Boa Viagem",
+        "Address": "Rua Pistóia, 165, Parque Novo Mundo",
+        "Phone": "Tel: (11) 2967-5497"
+    },
+    {
+        "Parish_Name": "",
+        "Parish_Community": "Nossa Senhora Aparecida dos Ferroviários",
+        "Address": "Rua Almirante Brasil, 125, Mooca",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida dos Ferroviários",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida dos Ferroviários",
+        "Address": "Rua Almirante Brasil, 125, Mooca",
+        "Phone": "Tel: (11) 2796-6016, Tel: (11) 91056-4097"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Comunidade Nossa Senhora Aparecida e São Joaquim.",
+        "Address": "Rua Ministro Silva Maia, 40, Jardim Humaitá",
+        "Phone": "Tel: (11) 3832-6465"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida E São Luciano",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida e São Luciano",
+        "Address": "Avenida Vila Ema, 3351, Vila Ema",
+        "Phone": "Tel: (11) 2211-7155"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida E São Matias",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Aparecida E São Matias",
+        "Address": "Rua Saint Gall, 412, Lauzane Paulista",
+        "Phone": "Tel: (11) 2231-1793"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Auxiliadora",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Auxiliadora",
+        "Address": "Rua Três Rios, 75, Bom Retiro",
+        "Phone": "Tel: (11) 3227-9276"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco Xavier",
+        "Parish_Community": "Comunidade Nossa Senhora Auxiliadora",
+        "Address": "Rua Soldado José Alves de Abreu, 328, Jardim Japão",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Alberto Magno",
+        "Parish_Community": "Comunidade Nossa Senhora Auxiliadora",
+        "Address": "Rua Sebastião Martins, s/n, Jd. Pinheiros",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Auxiliadora",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Auxiliadora",
+        "Address": "Rua Padres Valombrosanos, 126, Pirituba",
+        "Phone": "Tel: (11) 3904-5420"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Nossa Senhora Auxiliadora",
+        "Address": "Rua Dom Luís Lasanha, 300, Ipiranga",
+        "Phone": "Tel: (11) 2914-1879"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Nossa Senhora Consolata",
+        "Address": "Rua Antônio Lopes de Barros, 590, Jardim Peri Alto",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Nossa Senhora da Alegria",
+        "Address": "Rua Silveirânia, 300, Jardim Russo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade Nossa Senhora da Alegria e São Paulo Apóstolo",
+        "Address": "Rua São Urbano, 140, Vila Yara",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Anunciação",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Anunciação",
+        "Address": "Rua Maria Cândida, 507, Vila Guilherme",
+        "Phone": "Tel: (11) 2909-8988"
+    },
+    {
+        "Parish_Name": "Paróquia São Patrício",
+        "Parish_Community": "Capela Nossa Senhora da Assunção",
+        "Address": "Avenida Nossa Senhora da Assunção, 1004, Vila Butantã",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Assunção",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Assunção",
+        "Address": "Rua Doutor Argemiro Couto de Barros, 268, Jd. Felicidade",
+        "Phone": "Tel: (11) 3832-7284"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Basílica Nossa Senhora da Assunção - Mosteiro de São Bento",
+        "Address": "Largo São Bento, s/nº, Centro",
+        "Phone": "Tel: (11) 3328-8799, Tel: (11) 3328-8798"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Assunção e São Paulo",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Assunção e São Paulo",
+        "Address": "Praça João Mendes, 108, Centro",
+        "Phone": "Tel: (11) 3106-8119, Tel: (11) 3106-8110"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Paz",
+        "Parish_Community": "Comunidade Nossa Senhora da Aurora",
+        "Address": "Rua Giácomo Saratelli, 184, Vila Aurora",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Comunidade Nossa Senhora da Boa Esperança",
+        "Address": "Rua Francisco de Melo Palheta - até 648/649, 20, Parque Boa Esperança",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Candelária",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Candelária",
+        "Address": "Praça Nossa Senhora da Candelária, 01, Vila Maria",
+        "Phone": "Tel: (11) 2954-3566, Tel: (11) 2954-1669, Tel: (11) 2954-3692"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Conceição",
+        "Address": "Rua Nossa Senhora da Conceição, 117, Jaraguá",
+        "Phone": "Tel: (11) 3941-1306"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Nossa Senhora da Conceição",
+        "Address": "Rua Americana, s/n, Sítio Itaberaba I",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Conceição",
+        "Address": "Praça Sílvio Romero, s/nº, Cidade Mãe do Céu",
+        "Phone": "Tel: (11) 2093-1920"
+    },
+    {
+        "Parish_Name": "Paróquia Santos Apóstolos",
+        "Parish_Community": "Comunidade Nossa Senhora da Conceição",
+        "Address": "Rua Morato de Oliveira, 388, Parque Itaberaba",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Conceição - Santa Ifigênia",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Conceição - Santa Ifigênia",
+        "Address": "Rua Santa Ifigênia, 30, Santa Efigênia",
+        "Phone": "Tel: (11) 3229-6706, Tel: (11) 94856 - 8158"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Consolação",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Consolação",
+        "Address": "Rua da Consolação, 585, Consolação",
+        "Phone": "Tel: (11) 3256-5356, Tel: (11) 3237-4447"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Luz",
+        "Parish_Community": "Comunidade Nossa Senhora da Defesa",
+        "Address": "Rua Nossa Senhora da Luz, 52, Tucuruvi",
+        "Phone": "Tel: (11) 2987-7404"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora da Divina Providência",
+        "Address": "Rua Vilarinho, 95, Tremembé",
+        "Phone": "Tel: (11) 2262-1271, Tel: (11) 2203-2761"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Esperança",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Esperança",
+        "Address": "Rua Henry Fuseti, 49 B, Parque dos Bancários",
+        "Phone": "Tel: (11) 2726-2536, Tel: (11) 2721-9305"
+    },
+    {
+        "Parish_Name": "Paróquia São João Bosco",
+        "Parish_Community": "Comunidade Nossa Senhora da Esperança",
+        "Address": "Av. Diógenes Ribeiro Lima, 2000, Alto de Pinheiros",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Nossa Senhora da Esperança",
+        "Address": "Rua Árvore de São Tomás, s/nº, Jardim Russo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Bosco",
+        "Parish_Community": "Comunidade Nossa Senhora da Esperança",
+        "Address": "Av. Diógenes Ribeiro Lima, 2000, Alto de Pinheiros",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Esperança",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Esperança",
+        "Address": "Avenida dos Eucaliptos, 556, Moema",
+        "Phone": "Tel: (11) 5531-9519, Tel: (11) 5041-9571"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Expectação",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Expectação",
+        "Address": "Largo da Matriz de Nossa Senhora do Ó, s/nº, Freguesia do Ó",
+        "Phone": "Tel: (11) 3932-1702, Tel: (11) 3931-1898"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Glória",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Glória",
+        "Address": "Rua das Valerianas, 168, Vila Bela",
+        "Phone": "Tel: (11) 2341-9681"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Imaculada Conceição Aparecida",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Imaculada Conceição Aparecida",
+        "Address": "Rua João Millam, 288, Jardim Ester",
+        "Phone": "Tel: (11) 3782-7867"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Lapa",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Lapa",
+        "Address": "Rua Nossa Senhora da Lapa, 298, Lapa",
+        "Phone": "Tel: (11) 3834-6630"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Livração",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Livração",
+        "Address": "Avenida Ramiz Galvão, 638, Jardim Brasil (Zona Norte)",
+        "Phone": "Tel: (11) 2201-5582"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Luz",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Luz",
+        "Address": "Rua Heloísa Moya, 59, Vila Gustavo",
+        "Phone": "Tel: (11) 2949-5997, Tel: (11) 2949-2727"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Capela Nossa Senhora da Misericórdia - (Santa Casa de São Paulo)",
+        "Address": "Rua Doutor Cesário Mota Júnior, 112, Vila Buarque",
+        "Phone": "Tel: (11) 2176-7000"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe De Jesus",
+        "Parish_Community": "Comunidade Nossa Senhora da Moradia",
+        "Address": "Rua Menino de Engenho, 826, Jardim São Savério",
+        "Phone": "Tel: (11) 9397-1068"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade Nossa Senhora da Paz",
+        "Address": "Rua Cláudio Santoro, 39 A, Conjunto City Jaraguá",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Paz",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Paz",
+        "Address": "Rua Vale das Flores, 32, Jardim Santa Lucrécia",
+        "Phone": "Tel: (11) 3942-0493"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Penha",
+        "Parish_Community": "Comunidade Nossa Senhora da Paz",
+        "Address": "Rua Capitão Ulisses Soares de Campos, 302, Jardim Peri",
+        "Phone": "Tel: (11) 2231-8540"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Paz",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora da Paz",
+        "Address": "Rua do Glicério, 225, Liberdade",
+        "Phone": "Tel: (11) 3209-5388, Tel: (11) 3340-6950"
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade Nossa Senhora da Paz",
+        "Address": "Rua Gregório Petondi, 33, Fazenda da Juta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora da Paz",
+        "Address": "Rua Morada Nova de Minas, 750, Cidade Centenário",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Piedade",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Piedade",
+        "Address": "Travessa Elisa Storti, 222, Jardim Francisco Mendes",
+        "Phone": "Tel: (11) 2995-2793"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Nossa Senhora da Ressurreição (Colégio)",
+        "Address": "Rua dos Jornalistas, 157, Cidade Vargas",
+        "Phone": "Tel: (11) 5011-5776, Tel: (11) 5011-2962"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Salette",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Salette",
+        "Address": "Rua Doutor Zuquim, 1746, Santana",
+        "Phone": "Tel: (11) 2281-9499, Tel: (11) 2959-6946, Tel: (11) 2971-2597, Tel: (11) 2950-5438"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Nossa Senhora da Saúde",
+        "Address": "Rua Augusto Montenegro, 539, Parque Edu Chaves",
+        "Phone": "Tel: (11) 5579-3638"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Saúde",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Da Saúde",
+        "Address": "Rua Domingos de Morais, 2387, Vila Mariana",
+        "Phone": "Tel: (11) 5579-3638"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora das Angústias",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Angústias",
+        "Address": "Rua Doutor Rubens Meireles, 96, Várzea da Barra Funda",
+        "Phone": "Tel: (11) 3392-2488"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Esperança",
+        "Parish_Community": "Comunidade Nossa Senhora das Dores",
+        "Address": "Rua Francisco Salzillo, 25, Parque dos Bancários",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Dores",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Dores",
+        "Address": "Rua Tabor, 283, Ipiranga",
+        "Phone": "Tel: (11) 2061-3171, Tel: (11) 2061-3510"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Dores",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Dores",
+        "Address": "Avenida Elísio Teixeira Leite, 7400, Sítio Morro Grande",
+        "Phone": "Tel: (11) 3971-5386"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade Nossa Senhora das Dores",
+        "Address": "Rua Nortelândia, 94, Jardim Vista Alegre",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Dores",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Das Dores",
+        "Address": "Rua Lucila, 160, Vila Baruel",
+        "Phone": "Tel: (11) 3966-3427"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Nossa Senhora das Dores",
+        "Address": "Rua Espigão D'Oeste, 104, Limão",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade Nossa Senhora das Flores",
+        "Address": "Rua Miguel Ferreira de Melo, 105, Jardim Santo André",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Vitória Régia, 1089, Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Otávio Di Palma, 133, Jardim Ricardo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Das Graças",
+        "Address": "Rua Osvaldo de Souza Pinto, 211, Jardim Anhangüera",
+        "Phone": "Tel: (11) 3911-1595"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Graças",
+        "Address": "Rua Antenas, 582, Vila Califórnia",
+        "Phone": "Tel: (11) 2917-1167"
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Maria Grignion De Montfort",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Petiá, 80, Jardim Donária",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Graças",
+        "Address": "Avenida Engenheiro Armando de Arruda Pereira, 2313, Cidade Vargas",
+        "Phone": "Tel: (11) 5588-1227"
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Lourenço Leite Penteado, 111, Parque São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Das Graças",
+        "Address": "Avenida João Marcelino Branco, 96, Vila dos Andrades",
+        "Phone": "Tel: (11) 3859-4242"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Das Graças",
+        "Address": "Rua Marcelino de Camargo, 152, Vila Carolina",
+        "Phone": "Tel: (11) 3936-1287"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Bento da Rocha, 82, Jardim Daysy",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Porto Sabaúna, 267, Vila Alpina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Graças",
+        "Address": "Rua Serra de Capivaruçu, 274, Vila Renato (Zona Leste)",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Graças",
+        "Address": "Rua Coronel João de Oliveira Melo, 590, Vila Antonieta",
+        "Phone": "Tel: (11) 2726-8500"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade Nossa Senhora das Graças",
+        "Address": "Rua Capela da Lagoa, 349, Parque Panamericano",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Mercês",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora das Mercês",
+        "Address": "Rua Nossa Senhora das Mercês, 1463, Vila das Mercês",
+        "Phone": "Tel: (11) 2946-4726, Tel: (11) 2940-5557"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Neves",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Das Neves",
+        "Address": "Avenida Maestro Villa Lobos, 681, Parque Vitória",
+        "Phone": "Tel: (11) 2931-6720"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Casaluce",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Casaluce",
+        "Address": "Rua Caetano Pinto, 608/618, Brás",
+        "Phone": "Tel: (11) 3209-6051, Tel: (11) 96092-6437"
+    },
+    {
+        "Parish_Name": "Paróquia Coração Eucarístico de Jesus e Santa Marina",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Gaspar de Lemos, 662, Vila Nova Manchester",
+        "Phone": "Tel: (11) 2098-0088"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Fátima",
+        "Address": "Rua Barão da Passagem, 971, Vila Leopoldina",
+        "Phone": "Tel: (11) 3834-1532"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Fátima",
+        "Address": "Avenida Nossa Senhora da Encarnação, 279, Jardim Maria Estela",
+        "Phone": "Tel: (11) 2157-8405, Tel: (11) 2946-1697"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Rômulo Naldi, 68, Jardim Elisa Maria",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Patrício",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Pires Brandão, s/n, São Remo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Gervásio Leite Rebelo, 29, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Candelária",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Ciro, 50, Vila Maria Alta",
+        "Phone": "Tel: (11) 2631-6328"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Fátima",
+        "Address": "Rua Gomes Leal, 329, Vila Dionisia",
+        "Phone": "Tel: (11) 3851-0492"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Fátima",
+        "Address": "Avenida João Simão de Castro, 260, Vila Sabrina",
+        "Phone": "Tel: (11) 2201-3884"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Fátima",
+        "Address": "Rua General Gastão Goulart, 47, Vila Guarani (Z Sul)",
+        "Phone": "Tel: (11) 5016-1644, Tel: (11) 5108-9080"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Dalva de Oliveira, 84, Jardim Rosinha",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Fátima",
+        "Address": "Rua General Gastão Goulart, 47, Vila Guarani (Z Sul)",
+        "Phone": "Tel: (11) 5016-1644, Tel: (11) 5108-9080"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Fátima",
+        "Address": "Avenida Paula Ferreira, 1522, Vila Bonilha",
+        "Phone": "Tel: (11) 3975-3406"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Gervásio Leite Rebelo, 29, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Coração Eucarístico de Jesus e Santa Marina",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Gaspar de Lemos, 662, Vila Nova Manchester",
+        "Phone": "Tel: (11) 2098-0088"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Candelária",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Ciro, 50, Vila Maria Alta",
+        "Phone": "Tel: (11) 2631-6328"
+    },
+    {
+        "Parish_Name": "Paróquia São Patrício",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Pires Brandão, s/n, São Remo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Fátima",
+        "Address": "Rua Maria Amália Lopes Azevedo, 2249, Vila Albertina",
+        "Phone": "Tel: (11) 2203-4157"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade Nossa Senhora de Fátima",
+        "Address": "Rua Ivo Cavalcanti, 265, Parque Panamericano",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Nossa Senhora de Fátima (Colégio Santa Amália)",
+        "Address": "Avenida Jabaquara, 1673, Mirandópolis",
+        "Phone": "Tel: (11) 5071-3555"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima E São Roque",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Fátima e São Roque",
+        "Address": "Rua José Antônio Fontes, 36, Vila Tolstoi",
+        "Phone": "Tel: (11) 2702-1646, Tel: (11) 2702-2673"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade Nossa Senhora de Guadalupe",
+        "Address": "Avenida Deputado Cantídio Sampaio, 2620, Cidade Alta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora do Carmo",
+        "Parish_Community": "Comunidade Nossa Senhora de Guadalupe",
+        "Address": "Avenida do Progresso, 490, Jardim Marilú",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Jesus Ressuscitado",
+        "Parish_Community": "Comunidade Nossa Senhora de Guadalupe",
+        "Address": "Rua das Estrelas, 2,17, Cidade Satélite Santa Bárbara",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Libertador",
+        "Parish_Community": "Comunidade Nossa Senhora de Guadalupe",
+        "Address": "Rua Alfonso Lazzari - Conjunto Paulistano, 52, Jardim Paulistano (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Comunidade Nossa Senhora de Guadalupe",
+        "Address": "Rua Luígia Rosto, 57, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade Nossa Senhora de Guadalupe",
+        "Address": "Rua Tenente Godofredo Cerqueira Leite, 110, Fazenda da Juta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Loreto",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Loreto",
+        "Address": "Avenida Nossa Senhora do Loreto, 914, Vila Medeiros",
+        "Phone": "Tel: (11) 2201-0392, Tel: (11) 2939-1302"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Lourdes",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Lourdes",
+        "Address": "Alameda dos Piratinins, 679, Planalto Paulista",
+        "Phone": "Tel: (11) 2275-0360"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Lourdes",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Lourdes",
+        "Address": "Avenida Pompéia, 2221, Vila Pompéia",
+        "Phone": "Tel: (11) 3675-3004"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe De Jesus",
+        "Parish_Community": "Comunidade Nossa Senhora de Lourdes",
+        "Address": "Rua Quincas Borba, 60, Jardim São Savério",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha",
+        "Parish_Community": "Comunidade Nossa Senhora de Lourdes",
+        "Address": "Rua Jorge Pires Ramalho, 583, Vila Isabel",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Lourdes",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Lourdes",
+        "Address": "Rua João Soares, 13, Quarta Parada",
+        "Phone": "Tel: (11) 2606-8309"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Belém",
+        "Parish_Community": "Comunidade Nossa Senhora de Lourdes",
+        "Address": "Rua Aureliano Lessa, 412, Vila Regente Feijó",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Lourdes",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora De Lourdes",
+        "Address": "Rua Brentano - de 301/302 ao fim, 437, Vila Hamburguesa",
+        "Phone": "Tel: (11) 3834-4807"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Sião",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora de Sião",
+        "Address": "Avenida Doutor Gentil de Moura, 151, Vila Dom Pedro I",
+        "Phone": "Tel: (11) 5062-1821"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Nossa Senhora do Amparo",
+        "Address": "Rua Ivo Temporim, 12-A, Jardim Tango",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Bom Conselho",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Bom Conselho",
+        "Address": "Rua da Mooca, 3911, Mooca",
+        "Phone": "Tel: (11) 2601-8837, Tel: (11) 2601-0960"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Bom Parto",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Bom Parto",
+        "Address": "Rua Serra do Japi, 1146, Vila Gomes Cardim",
+        "Phone": "Tel: (11) 2671-4152, Tel: (11) 2671-5845"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Brasil",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Brasil",
+        "Address": "Praça Nossa Senhora do Brasil, 01, Jardim América",
+        "Phone": "Tel: (11) 3082-9786"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Capela Nossa Senhora do Calvário",
+        "Address": "Rua Pataji, 297, Jardim Carlu",
+        "Phone": "Tel: (11) 2894-8990"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresinha Do Menino Jesus",
+        "Parish_Community": "Capela Nossa Senhora do Calvário",
+        "Address": "Rua Jaguari, 364, Bosque da Saúde",
+        "Phone": "Tel: (11) 2276-1177"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Nossa Senhora do Calvário (Irmãs Calvarianas)",
+        "Address": "Rua Jaguari, 364, Bosque da Saúde",
+        "Phone": "Tel: (11) 2276-1177"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Do Carmo",
+        "Address": "Avenida Elísio Teixeira Leite, 1317, Vila Brasilândia",
+        "Phone": "Tel: (11) 3975-2569"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja Nossa Senhora do Carmo",
+        "Address": "Avenida Rangel Pestana, 230, Brás",
+        "Phone": "Tel: (11) 3242-8361"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Carmo",
+        "Address": "Praça Coronel Melo Gaia, s/nº, Vila Alpina",
+        "Phone": "Tel: (11) 2917-1755, Tel: (11) 2317-3805, Tel: (11) 2912-8377"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Bernadette",
+        "Parish_Community": "Comunidade Nossa Senhora do Carmo",
+        "Address": "Rua Alvarães, 187, Cidade Continental",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Comunidade Nossa Senhora do Carmo",
+        "Address": "",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Carmo",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Carmo",
+        "Address": "Rua Brás Cubas, 163, Aclimação",
+        "Phone": "Tel: (11) 5579-7386"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Do Carmo",
+        "Address": "Avenida Antonelo da Messina, 772, Vila Paulistana",
+        "Phone": "Tel: (11) 2243-1333, Tel: (11) 2952-4908"
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Nossa Senhora do Carmo",
+        "Address": "Rua Nossa Senhora do Carmo, 50, Jardim Nova Conquista",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora do Carmo",
+        "Parish_Community": "Área Pastoral Nossa Senhora do Carmo",
+        "Address": "Rua Abner Ribeiro Borges, 36, Jardim Roseli",
+        "Phone": "Tel: (11) 2253-5406"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Carmo - Basílica",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Carmo - Basílica",
+        "Address": "Rua Martiniano de Carvalho, 114, Bela Vista",
+        "Phone": "Tel: (11) 3146-4500"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Líbano",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Do Líbano",
+        "Address": "Rua Professor Araújo Coelho, 637, Jardim Líbano",
+        "Phone": "Tel: (11) 3904-5449"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Monte Serrate",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Monte Serrate",
+        "Address": "Largo dos Pinheiros, 52, Pinheiros",
+        "Phone": "Tel: (11) 3031-3656, Tel: (11) 3819-9649"
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Comunidade Nossa Senhora do Paraíso",
+        "Address": "Rua Canário, 143, Recanto Paraíso",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Perpétuo Socorro",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Perpétuo Socorro",
+        "Address": "Rua Grecco, 599 / 613, Chácara Mafalda",
+        "Phone": "Tel: (11) 2211-6508, Tel: (11) 2216-2779"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Perpétuo Socorro",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Perpétuo Socorro",
+        "Address": "Rua Honório Líbero, 90, Jardim Paulistano",
+        "Phone": "Tel: (11) 3083-0033, Tel: 11-99821-4141"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Pilar",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Pilar",
+        "Address": "Rua Salvador Mastropietro, 153, Parque Sevilha",
+        "Phone": "Tel: (11) 2021-8003"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Retiro",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Do Retiro",
+        "Address": "Rua Domingos Moreira, 424, Jardim Cidade Pirituba",
+        "Phone": "Tel: (11) 3974-7204"
+    },
+    {
+        "Parish_Name": "Paróquia São Gabriel Da Virgem Dolorosa",
+        "Parish_Community": "Comunidade Nossa Senhora do Rosário",
+        "Address": "Rua Manuel Leitão Avilez, 96, Bortolândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Comunidade Nossa Senhora do Rosário",
+        "Address": "Rua Antônio De Souza Costa, 154, Imirim",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade Nossa Senhora do Rosário",
+        "Address": "Jean Billon, 04, Recanto Verde do Sol",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Rosário de Fátima",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Rosário de Fátima",
+        "Address": "Avenida Doutor Arnaldo, 1831, Sumaré",
+        "Phone": "Tel: (11) 3862-8665, Tel: (11) 3871-4690"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora do Rosário de Pompéia",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora do Rosário de Pompéia",
+        "Address": "Avenida Pompéia, 1250, Vila Pompéia",
+        "Phone": "Tel: (11) 3862-6727, Tel: (11) 3871-9091"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja Nossa Senhora do Rosário dos Homens Pretos",
+        "Address": "Largo do Paissandu, s/nº, Centro",
+        "Phone": "Tel: (11) 3223-3611"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Sagrado Coração",
+        "Parish_Community": "Santuário Nossa Senhora do Sagrado Coração",
+        "Address": "Avenida Renata, 1, Vila Formosa",
+        "Phone": "Tel: (11) 2211-0448"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Área Pastoral Nossa Senhora dos Espinhos",
+        "Address": "Rua Marcondes Machado, 38, Vila Alzira",
+        "Phone": "Tel: (11) 2703-9958"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora dos Pobres",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Dos Pobres",
+        "Address": "Avenida Doutor Vital Brasil, 1185, Butantã",
+        "Phone": "Tel: (11) 3726-2618"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Dos Prazeres",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Dos Prazeres",
+        "Address": "Avenida General Ataliba Leonel, 3013, Parada Inglesa",
+        "Phone": "Tel: (11) 2979-9371, Tel: (11) 2971-3739"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora dos Remédios",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora dos Remédios",
+        "Address": "Rua Tenente de Azevedo, 182, Aclimação",
+        "Phone": "Tel: (11) 3209-3636, Tel: 11 95678-6677 Whats"
+    },
+    {
+        "Parish_Name": "Nossa Senhora e Santa`Ana",
+        "Parish_Community": "Área Pastoral Nossa Senhora e Sant'Ana",
+        "Address": "Rua Herman Rechter, 26, Vila Penteado",
+        "Phone": "Tel: (11) 3859-6720"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe da Igreja",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Mãe da Igreja",
+        "Address": "Alameda Franca, 889, Jardim Paulista",
+        "Phone": "Tel: (11) 3085-1362"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe De Deus",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Mãe De Deus",
+        "Address": "Rua Manuel de Arzão, 85, Vila Albertina",
+        "Phone": "Tel: (11) 3931-4001"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe De Jesus",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Mãe De Jesus",
+        "Address": "Rua Adriano Racine, 15, Jardim Celeste",
+        "Phone": "Tel: (11) 2334-1754"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade Nossa Senhora Mãe do Bom Conselho",
+        "Address": "Rua Francisco Leopoldo e Silva, 36, Jardim Andaraí",
+        "Phone": "Tel: (11) 2954-7754"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe do Salvador (Cruz Torta)",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Mãe do Salvador (Cruz Torta)",
+        "Address": "Avenida Professor Frederico Herman Júnior, 105, Alto de Pinheiros",
+        "Phone": "Tel: (11) 3814-2925, Tel: (11) 99688-6882"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Mãe Rainha",
+        "Address": "Avenida Pinheirinho D'Água, 435, Parque Panamericano",
+        "Phone": "Tel: (11) 3941-1865"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Rainha da Paz",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Rainha Da Paz",
+        "Address": "Praça Japuba, 25, Vila Ida",
+        "Phone": "Tel: (11) 3021-0393"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Dores",
+        "Parish_Community": "Capela Nossa Senhora Rainha da Paz",
+        "Address": "Rua Ouro Grosso, 899, Parque Peruche",
+        "Phone": "Tel: (11) 3966-3427"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Rainha dos Apóstolos",
+        "Parish_Community": "Matriz Paroquial Nossa Senhora Rainha dos Apóstolos",
+        "Address": "Rua Ouvidor Portugal, 598, Vila Monumento",
+        "Phone": "Tel: (11) 2063-2893"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Nova Jerusalém",
+        "Address": "Rua Creonte, 62, Jardim Adelfiore",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Comunidade O Bom Pastor",
+        "Address": "Rua Eugênia de Guerin, 310, Jardim Sapopemba",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Padre Antônio Merotti",
+        "Address": "Rua Sertão do Paraupaba, 47, Parque São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Comunidade Paulo Apóstolo",
+        "Address": "Endereço: Rua Guiomar Novaes, 513, Santa Lucrécia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Pe.Antônio Sammut",
+        "Address": "Rua Doutor Paulo Queiroz, 09, Jardim Nove de Julho",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Comunidade Pedro Pescador",
+        "Address": "Rua Esquivel Navarro, 677, Conjunto Habitacional Teotonio Vilela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Alemã São Bonifácio",
+        "Parish_Community": "Matriz Paroquial Pessoal Alemã São Bonifácio",
+        "Address": "Rua Humberto I, 298, Vila Mariana",
+        "Phone": "Tel: (11) 5571-5422"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Chinesa Sagrada Família",
+        "Parish_Community": "Matriz Paroquial Pessoal Chinesa Sagrada Família",
+        "Address": "Rua Santa Justina, 290, Vila Olímpia",
+        "Phone": "Tel: (11) 3845-0264, Tel: (11) 3842-6634"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Coreana São Kim Degun",
+        "Parish_Community": "Matriz Paroquial Pessoal Coreana São Kim Degun",
+        "Address": "Rua Nair de Teffé, 147, Bom Retiro",
+        "Phone": "Tel: (11) 2128-0401, Tel: (11) 2128-0402"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal dos Eslovenos",
+        "Parish_Community": "Matriz Paroquial Pessoal dos Eslovenos",
+        "Address": "Rua Tutóia, 1125, Vila Mariana",
+        "Phone": "Tel: (11) 3884-4644, Tel: (11) 3884-4695"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal dos Fiéis Latino-Americanos",
+        "Parish_Community": "Matriz Paroquial Pessoal dos Fiéis Latino-Americanos",
+        "Address": "Rua do Glicério, 225, Liberdade",
+        "Phone": "Tel: (11) 3340-6966"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Italiana São Francisco de Assis e Santa Catarina de Sena",
+        "Parish_Community": "Matriz Paroquial Pessoal Italiana São Francisco de Assis e Santa Catarina de Sena",
+        "Address": "Rua do Glicério, 225, Liberdade",
+        "Phone": "Tel: (11) 3209-5388, Tel: (11) 3207-7709"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Nipo-Brasileira São Gonçalo",
+        "Parish_Community": "Matriz Paroquial Pessoal Nipo-Brasileira São Gonçalo",
+        "Address": "Praça Doutor João Mendes, 108, Centro",
+        "Phone": "Tel: (11) 3106-8119, Tel: (11) 3106-8110"
+    },
+    {
+        "Parish_Name": "Capelania Pessoal Polonesa",
+        "Parish_Community": "Capela Pessoal Polonesa",
+        "Address": "Rua Três Rios - lado ímpar, 75, Bom Retiro",
+        "Phone": "Tel: (11) 2387-2597, Tel: (11) 98171-1213"
+    },
+    {
+        "Parish_Name": "Paróquia Pessoal Universitária Imaculado Coração de Maria - PUC",
+        "Parish_Community": "Matriz Paroquial Pessoal Universitária Imaculado Coração de Maria - PUC",
+        "Address": "Rua Monte Alegre, 948, Perdizes",
+        "Phone": "Tel: (11) 3862-2498"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade Rainha da Paz",
+        "Address": "Lago Michigan, 7, Palanque",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Retiro",
+        "Parish_Community": "Comunidade Rainha da Paz",
+        "Address": "Rua Núcleo Bandeirante, 116, Jardim Paquetá (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Rainha dos Apóstolos",
+        "Address": "Rua Aurélia, 953, Vila Romana",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Rainha Santa Isabel",
+        "Parish_Community": "Matriz Paroquial Rainha Santa Isabel",
+        "Address": "Rua Elias Gannam, 331, Vila Bandeirantes",
+        "Phone": "Tel: (11) 3857-5051"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Recanto Nossa Senhora de Lourdes",
+        "Address": "Rua Luís Carlos Gentile de Laet, 1736, Horto Florestal",
+        "Phone": "Tel: (11) 2203-2397"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Recanto Santa Maria",
+        "Address": "Rua Pedro José de Lima, s/n - Viela 3, Jardim Anhanguera",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Regina Mundi (Colégio)",
+        "Address": "Rua Marquês de Lages, 2002, Vila Morais",
+        "Phone": "Tel: (11) 2946-9433"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio De Lisboa",
+        "Parish_Community": "Área Pastoral Regina Mundi",
+        "Address": "Rua Francisco Marengo, 1470, Tatuapé",
+        "Phone": "Tel: (11) 2092-2308"
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Face",
+        "Parish_Community": "Matriz Paroquial Sagrada Face",
+        "Address": "Rua Mariazinha Vicenzzoto, 41, Jardim Aricanduva",
+        "Phone": "Tel: (11) 2726-3310"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua Lorenzo Massa, 270, Cidade São Mateus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "André Maia, 172, Vila Pereira Barreto",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua Felipe Bonani, 103, Jardim Bandeirante (São Rafael)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua Mestre Simeão José de Nazaré, 361, Jardim Cecy",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Matriz Paroquial Sagrada Família",
+        "Address": "Avenida do Cursino, 1915, Jardim da Saúde",
+        "Phone": "Tel: (11) 5058-8386"
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Agostinho",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua César Bachini, 16, Conjunto Residencial Bandeirantes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua Dedalion, 27, Jardim Adelfiore",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Matriz Paroquial Sagrada Família",
+        "Address": "Rua Sete Cachoeiras, 35, Jardim Peri",
+        "Phone": "Tel: (11) 3851-1445"
+    },
+    {
+        "Parish_Name": "Paróquia São João Clímaco",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Avenida Patente, 193, Jardim Patente",
+        "Phone": "Tel: (11) 2945-8195"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Esperança",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua Pedro de Castro Velho, 349, Jardim Iva",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua General Lecor, 169, Ipiranga",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua Catuaba, 832, Vila Alpina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Matriz Paroquial Sagrada Família",
+        "Address": "João Cordeiro, 772, Vila Carrão",
+        "Phone": "Tel: (11) 2781-3178"
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Avenida Arquiteto Vilanova Artigas, 596, Conjunto Habitacional Teotonio Vilela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Comunidade Sagrada Família",
+        "Address": "Rua José Clave, 70, Vila Dorna",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Sagrada Família de Nazaré",
+        "Address": "Rua Eduardo Lobo, 281, Parque Imperial",
+        "Phone": "Tel: (11) 5072-5295, Tel: (11) 5584-5546"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Sagrada Família e Santa Paulina",
+        "Address": "Avenida Nazaré, 470, Ipiranga",
+        "Phone": "Tel: (11) 2273-0414"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena",
+        "Parish_Community": "Comunidade Sagrado Coração",
+        "Address": "Rua Rio Hipiaugui, 747, Parque Santa Madalena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Capela Sagrado Coração de Jesus",
+        "Address": "Avenida Inajar de Souza, 6.031, Jardim Peri Alto",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Mauro, 226, Jd. da Saúde",
+        "Phone": "Tel: (11) 5078-8818"
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Gênesis, 6, Jardim da Conquista (Zona Oeste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Benedito",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Desembargador Galvão, 49, Jardim Modelo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Candelária",
+        "Parish_Community": "Comunidade Sagrado Coração De Jesus",
+        "Address": "Rua Vianópolis, 363, Vila Maria",
+        "Phone": "Tel: (11) 2954-7319"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Av. Custódio de Sá Farias, 600, Vila Renato (Zona Leste)",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Gaspar Barreto, 738, Vila Alpina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrado Coração De Jesus",
+        "Parish_Community": "Matriz Paroquial Sagrado Coração De Jesus",
+        "Address": "Rua Murilo Furtado, 686, Parque Vitória",
+        "Phone": "Tel: (11) 2934-2420"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Guilherme de Brito, 59, Parque Nações Unidas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Pedro Soares, 02, Jardim Hebrom",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Travessa Somos Todos Iguais, 312-A, Jardim da Conquista (Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrado Coração de Jesus",
+        "Parish_Community": "Matriz Paroquial Sagrado Coração De Jesus",
+        "Address": "Rua Francisco Ferrari, 130, Parque Continental",
+        "Phone": "Tel: (11) 3719-4310"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Mercês",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Almirante João de Faria Lima, 161, Jardim Clímax",
+        "Phone": "Tel: (11) 2335-8760"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Antônio Augusto Queiroga, 109, Vila Serralheiro",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua Domingos Antônio Gomes, 64, Vila Chica Luisa",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrado Coração de Jesus",
+        "Parish_Community": "Matriz Paroquial Sagrado Coração de Jesus",
+        "Address": "Largo Coração de Jesus, 154, Campos Elíseos",
+        "Phone": "Tel: (11) 3331-0162"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Glória",
+        "Parish_Community": "Comunidade Sagrado Coração de Jesus",
+        "Address": "Rua das Sensitivas, 84, Vila Bela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrado Coraçao de Jesus em Sufrágio das Almas",
+        "Parish_Community": "Matriz Paroquial Sagrado Coraçao de Jesus em Sufrágio das Almas",
+        "Address": "Rua Guaporé, 429, Luz",
+        "Phone": "Tel: (11) 3228-9988, Tel: (11) 3328-9988"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Adélia",
+        "Parish_Community": "Matriz Paroquial Santa Adélia",
+        "Address": "Cachoeira de Minas, 468, Jardim Santa Adélia",
+        "Phone": "Tel: (11) 2015-8163"
+    },
+    {
+        "Parish_Name": "São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Santa Ângela",
+        "Address": "Rua Michele Príncipe, 300, Sacomã",
+        "Phone": "Tel: (11) 2063-8126"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Ângela E São Serapião",
+        "Parish_Community": "Matriz Paroquial Santa Ângela e São Serapião",
+        "Address": "Largo Santa Ângela, 22, Vila Morais",
+        "Phone": "Tel: (11) 5058-5058, Tel: (11) 5073-3336"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Bernadette",
+        "Parish_Community": "Matriz Paroquial Santa Bernadette",
+        "Address": "Avenida do Oratório, 4246, Vila IVG",
+        "Phone": "Tel: (11) 2702-1194, Tel: (11) 2702-1562"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cândida",
+        "Parish_Community": "Matriz Paroquial Santa Cândida",
+        "Address": "Avenida Doutor Ricardo Jafet, 769, Vila Santa Eulália",
+        "Phone": "Tel: (11) 2272-6473"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cecília",
+        "Parish_Community": "Matriz Paroquial Santa Cecília",
+        "Address": "Largo Santa Cecília, s/nº, Santa Cecília",
+        "Phone": "Tel: (11) 3331-5195"
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Maria Grignion De Montfort",
+        "Parish_Community": "Comunidade Santa Clara",
+        "Address": "Rua Sol da Liberdade, 100, Jardim Alvina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Clara",
+        "Parish_Community": "Matriz Paroquial Santa Clara",
+        "Address": "Rua Sílvio de Sousa, 223, Vila Santa Clara",
+        "Phone": "Tel: (11) 2216-1867"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cristina",
+        "Parish_Community": "Matriz Paroquial Santa Cristina",
+        "Address": "Rua Benedito Tolosa, 252, Parque Bristol",
+        "Phone": "Tel: (11) 2264-2855"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Matriz Paroquial Santa Cruz",
+        "Address": "Avenida Santa Inês, 2229, Jardim Peri",
+        "Phone": "Tel: (11) 2231-4193"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade Santa Cruz",
+        "Address": "Rua Santa Cruz, s/nº, Vila Santa Cruz",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Área Pastoral Santa Cruz",
+        "Address": "Santa Maria Madalena, 21, Vila Califórnia",
+        "Phone": "Tel: (11) 2912-4362"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Salette",
+        "Parish_Community": "Comunidade Santa Cruz",
+        "Address": "Rua Voluntários da Pátria, 2678, Santana",
+        "Phone": "Tel: (11) 2978-5011"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Matriz Paroquial Santa Cruz",
+        "Address": "Rua Alfredo Marcondes, 191, Jardim Nice",
+        "Phone": "Tel: (11) 2724-9357, Tel: (11) 2724-5884"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Piedade",
+        "Parish_Community": "Comunidade Santa Cruz",
+        "Address": "Avenida Coronel Sezefredo Fagundes, 6,500, Jardim Francisco Mendes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Matriz Paroquial Santa Cruz",
+        "Address": "Rua Doutor Paulo Furtado de Oliveira, 370, Jardim Santa Cruz (Zona Norte)",
+        "Phone": "Tel: (11) 3859-4370"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja Santa Cruz das Almas dos Enforcados",
+        "Address": "Praça da Liberdade, 238, Liberdade",
+        "Phone": "Tel: (11) 3208-7591"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz De Itaberaba",
+        "Parish_Community": "Matriz Paroquial Santa Cruz De Itaberaba",
+        "Address": "Avenida Itaberaba, 2093, Itaberaba",
+        "Phone": "Tel: (11) 3924-0515"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Domitila",
+        "Parish_Community": "Matriz Paroquial Santa Domitila",
+        "Address": "Rua Adrião Ferreira, 103, Parque São Domingos",
+        "Phone": "Tel: (11) 3904-6072"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Luz",
+        "Parish_Community": "Comunidade Santa Edwiges",
+        "Address": "Rua Doutor Natalino Righeto, 380, Tucuruvi",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade Santa Edwiges",
+        "Address": "Rua Estevão da Gama, 71, Jardim Monte Alegre (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Santa Edwirges",
+        "Address": "Belém do Pará, 12, Jd . Novo Paulistano",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Francisca Xavier Cabrini",
+        "Parish_Community": "Matriz Paroquial Santa Francisca Xavier Cabrini",
+        "Address": "Rua Chácara do Carvalho, 88, Campos Elíseos",
+        "Phone": "Tel: (11) 3666-1545"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Generosa",
+        "Parish_Community": "Matriz Paroquial Santa Generosa",
+        "Address": "Avenida Bernardino de Campos, 360, Paraíso",
+        "Phone": "Tel: (11) 3889-7055, Tel: (11) 3889-9818, Tel: 98218-5267"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Consolata",
+        "Parish_Community": "Comunidade Santa Gertrudes",
+        "Address": "Rua Marambaia, 777, Vila Baruel",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Comunidade Santa Helena",
+        "Address": "Lourenzo Penna, 350, Jd.Helena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Inês",
+        "Parish_Community": "Matriz Paroquial Santa Inês",
+        "Address": "Rua Paulo Carneiro, 30, Lauzane Paulista",
+        "Phone": "Tel: (11) 2231-4759"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Izabel - Santa Luzia",
+        "Parish_Community": "Comunidade Santa Isabel",
+        "Address": "Rua Alfredo Marcondes Machado, 161, Vila Bancária",
+        "Phone": "Tel: (11) 3936-2341"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Paulina",
+        "Parish_Community": "Comunidade Santa Isabel",
+        "Address": "Rua da Alegria Popular, 724, Cidade Nova Heliópolis",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Isabel Rainha",
+        "Parish_Community": "Matriz Paroquial Santa Isabel Rainha",
+        "Address": "Alameda Rainha Santa, 322, Vila Carrão",
+        "Phone": "Tel: (11) 2781-1048, Tel: (11) 2781-2331"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Comunidade Santa Izabel",
+        "Address": "Estrada Lázaro Amâncio de Barros, 521, Vila Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Joana D´Arc",
+        "Parish_Community": "Matriz Paroquial Santa Joana D'Arc",
+        "Address": "Rua Gaurama, 192, Jardim Franca",
+        "Phone": "Tel: (11) 2203-8533"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Santa Luzia",
+        "Address": "Rua Barão de Antonina, 193, Jaguaré",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Santa Luzia",
+        "Address": "Rua Júlio Maciel, 166, Vila Nova",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Santa Luzia",
+        "Address": "Rua Manoel Fiel Filho, 2, Vila dos Palmares",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Santa Luzia",
+        "Parish_Community": "Matriz Paroquial Santa Luzia",
+        "Address": "Rua Padre Agostinho Poncet, 134, Água Fria",
+        "Phone": "Tel: (11) 2976-1267"
+    },
+    {
+        "Parish_Name": "Paróquia Bom Jesus dos Passos",
+        "Parish_Community": "Comunidade Santa Luzia",
+        "Address": "Rua Oscar Dias Paião, 219, Vila América",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Santa Luzia",
+        "Parish_Community": "Matriz Paroquial Santa Luzia",
+        "Address": "Rua Padre Agostinho Poncet, 134, Água Fria",
+        "Phone": "Tel: (11) 2976-1267"
+    },
+    {
+        "Parish_Name": "Santa Luzia",
+        "Parish_Community": "Matriz Paroquial Santa Luzia",
+        "Address": "Rua Orlando Villas Boas, 5, Vila Jaguari",
+        "Phone": "Tel: (11) 3904-1962"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Dos Prazeres",
+        "Parish_Community": "Comunidade Santa Luzia",
+        "Address": "Rua Carmina Pasqui, 55, Parada Inglesa",
+        "Phone": "Tel: (11) 2979-6397"
+    },
+    {
+        "Parish_Name": "Paróquia Santos Apóstolos",
+        "Parish_Community": "Comunidade Santa Luzia",
+        "Address": "Rua General Manuel Cavalcanti Proença, 183, Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Lourdes",
+        "Parish_Community": "Comunidade Ambiental Santa Luzia (CEAGESP)",
+        "Address": "Avenida Doutor Gastão Vidigal, 1946, Vila Leopoldina",
+        "Phone": "Tel: (11) 7186-3607"
+    },
+    {
+        "Parish_Name": "São José de Anchieta",
+        "Parish_Community": "Comunidade Santa Luzia e Dom Oscar Romero",
+        "Address": "Antônio Tinoco, 38, Pq . São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Margarida Maria",
+        "Parish_Community": "Matriz Paroquial Santa Margarida Maria",
+        "Address": "Avenida Lins de Vasconcelos, 2129, Cambuci",
+        "Phone": "Tel: (11) 5579-5059"
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Santa Maria",
+        "Address": "Rua Furquim, 61, Jardim São Cristóvão",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Zita E Nossa Senhora Do Caminho",
+        "Parish_Community": "Comunidade Santa Maria Goretti",
+        "Address": "Rua Santa Maria Goretti, 179, Vila Maria Alta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Goretti",
+        "Parish_Community": "Matriz Paroquial Santa Maria Goretti",
+        "Address": "Rua Doutor Romeo Ferro, 281, Vila Gomes",
+        "Phone": "Tel: (11) 3726-2959"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena",
+        "Parish_Community": "Matriz Paroquial Santa Maria Madalena",
+        "Address": "Avenida Primavera de Caiena, 43, Parque Santa Madalena",
+        "Phone": "Tel: (11) 2703-4831"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena e São Miguel Arcanjo",
+        "Parish_Community": "Matriz Paroquial Santa Maria Madalena e São Miguel Arcanjo",
+        "Address": "Rua Girassol, 795, Vila Madalena",
+        "Phone": "Tel: (11) 3032-4594"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Mônica",
+        "Parish_Community": "Matriz Paroquial Santa Mônica",
+        "Address": "Rua Felício Bottino, 95, Jardim Santa Mônica",
+        "Phone": "Tel: (11) 3904-5863"
+    },
+    {
+        "Parish_Name": "Paróquia São Tomás More",
+        "Parish_Community": "Comunidade Santa Mônica",
+        "Address": "Rua Frederico Bacchin Neto, 140 Sala 8, Parque dos Príncipes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Paulina",
+        "Parish_Community": "Matriz Paroquial Santa Paulina",
+        "Address": "Rua 28 de outubro, 07, Cidade Nova Heliópolis",
+        "Phone": "Tel: (11) 2061-8956, Tel: (11) 9440-0287"
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Comunidade Santa Paulina",
+        "Address": "Rua Santa Rita do Itueto, 212, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade Santa Paulina",
+        "Address": "Rua Timór, 33, Parque das Flores",
+        "Phone": "Tel: (11) 2753-7449"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Santa Paulina (Centro de Educação Infantil Baronesa de Limeira)",
+        "Address": "Rua Antônio Gebara, 75, Planalto Paulista",
+        "Phone": "Tel: (11) 2275-3068"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Comunidade Santa Rita",
+        "Address": "Rua Joaquim Ferreira da Rocha, 506, Brasilândia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Comunidade Santa Rita",
+        "Address": "Travessa de Menina de Trança, 08, Jardim da Conquista (Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade Santa Rita",
+        "Address": "Travessa Golfo do México, 15-c, Jd.Limoeiro",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Matriz Paroquial Santa Rita De Cássia",
+        "Address": "Rua Santa Rita, 799, Pari",
+        "Phone": "Tel: (11) 2693-7985, Tel: (11) 2796-6842"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Livração",
+        "Parish_Community": "Comunidade Santa Rita de Cássia",
+        "Address": "Rua Carlos dos Santos, 1005, Jardim Brasil (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Matriz Paroquial Santa Rita De Cássia",
+        "Address": "Rua João Melo da Câmara, 47, Vila Progresso",
+        "Phone": "Tel: (11) 3971-3717"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Santa Rita De Cássia",
+        "Address": "Rua Paraná, 12, Jardim Paineiras",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Matriz Paroquial Santa Rita De Cássia",
+        "Address": "Rua Fritz Jank, 40, Parque Novo Mundo",
+        "Phone": "Tel: (11) 2954-0652, Tel: (11) 2631-3732"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita de Cássia",
+        "Parish_Community": "Matriz Paroquial Santa Rita de Cássia",
+        "Address": "Rua Dona Inácia Uchôa, 106, Vila Mariana",
+        "Phone": "Tel: (11) 5573-9205"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Matriz Paroquial Santa Rita De Cássia",
+        "Address": "Praça Santa Rita de Cássia, 133, Mirandópolis",
+        "Phone": "Tel: (11) 2275-6801, Tel: (11) 5581-6415"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Comunidade Santa Rosa",
+        "Address": "Rua Luís Carlos Gentile de Laet, 1302, Horto Florestal",
+        "Phone": "Tel: (11) 2203-0622"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Matriz Paroquial Santa Rosa De Lima",
+        "Address": "Avenida Professora Virgília Rodrigues Alves de Carvalho Pinto, 176, Jd. IPESP",
+        "Phone": "Tel: (11) 2204-4048"
+    },
+    {
+        "Parish_Name": "Paroquia Santa Rosa de Lima",
+        "Parish_Community": "Matriz Paroquial Santa Rosa de Lima",
+        "Address": "Rua Apiacás, 250, Perdizes",
+        "Phone": "Tel: (11) 3862-0369, Tel: (11) 3672-8745, Tel: (11) 96366-4458"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Matriz Paroquial Santa Rosa De Lima",
+        "Address": "Salvador Mota, 296, Vila Industrial",
+        "Phone": "Tel: (11) 2703-2233"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Santa Rosa de Lima",
+        "Address": "Rua Serro Frio, 318, Jardim Adutora",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Matriz Paroquial Santa Rosa De Lima",
+        "Address": "Rua Oscar Cunha Correia, 141, Perus",
+        "Phone": "Tel: (11) 3917-0875"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Matriz Paroquial Santa Teresa de Calcutá",
+        "Address": "Estrada dos Fidélis, 42, Jardim Arantes",
+        "Phone": "Tel: (11) 4505-0516"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Santa Teresa de Jesus",
+        "Address": "Avenida Jabaquara, 244, Mirandópolis",
+        "Phone": "Tel: (11) 2275-5020"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Jesus",
+        "Parish_Community": "Matriz Paroquial Santa Teresa de Jesus",
+        "Address": "Rua Clodomiro Amazonas, 50, Itaim Bibi",
+        "Phone": "Tel: (11) 3168-8323"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresinha",
+        "Parish_Community": "Matriz Paroquial Santa Teresinha",
+        "Address": "Praça Domingos Correia da Cruz, 140, Santana",
+        "Phone": "Tel: (11) 2979-8161"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresinha",
+        "Parish_Community": "Matriz Paroquial Santa Teresinha",
+        "Address": "Rua Maranhão, 617, Higienópolis",
+        "Phone": "Tel: (11) 3660-1220"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresinha Do Menino Jesus",
+        "Parish_Community": "Matriz Paroquial Santa Teresinha Do Menino Jesus",
+        "Address": "Avenida Bosque da Saúde, 803, Saúde",
+        "Phone": "Tel: (11) 2275-4232"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Expectação",
+        "Parish_Community": "Comunidade Santa Teresinha do Menino Jesus",
+        "Address": "Rua Bonança, 32, Vila São Vicente",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade Santa Tereza D`Àvila",
+        "Address": "Rua Patrice Lumumba, 181, Jardim Elisa Maria",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Comunidade Santa Tereza D´Ávila",
+        "Address": "Rua Engenheiro Pedro Garcin, 274, Vila Antônio",
+        "Phone": "Tel: (11) 3798-5425"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Piedade",
+        "Parish_Community": "Comunidade Santa Terezinha",
+        "Address": "Rua Clóvis Salgado, 190, Jardim das Pedras",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha",
+        "Parish_Community": "Matriz Paroquial Santa Terezinha",
+        "Address": "Rua Jorge Palmiro Mercado, 143, Vila Teresinha",
+        "Phone": "Tel: (11) 3921-9577"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Izabel - Santa Luzia",
+        "Parish_Community": "Comunidade Santa Terezinha",
+        "Address": "Rua Reverendo José Carlos Nogueira, 226, Parque Mandi",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha",
+        "Parish_Community": "Matriz Paroquial Santa Terezinha",
+        "Address": "Rua Baltazar Pereira, 174, Jardim Regina",
+        "Phone": "Tel: (11) 3904-4376"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Comunidade Santa Terezinha do Menino Jesus",
+        "Address": "Avenida Henry Ford, alt.2000, Parque da Mooca",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha Do Menino Jesus",
+        "Parish_Community": "Matriz Paroquial Santa Terezinha Do Menino Jesus",
+        "Address": "Avenida Guapira, 2055, Jaçanã",
+        "Phone": "Tel: (11) 3892-2078"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha Do Menino Jesus",
+        "Parish_Community": "Matriz Paroquial Santa Terezinha Do Menino Jesus",
+        "Address": "Rua Roberto Correia, 338, Jardim Sydney",
+        "Phone": "Tel: (11) 3971-4836"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Zita E Nossa Senhora Do Caminho",
+        "Parish_Community": "Matriz Paroquial Santa Zita e Nossa Senhora Do Caminho",
+        "Address": "Rua Padre Sabóia de Medeiros, 827, Vila Maria Alta",
+        "Phone": "Tel: (11) 2949-2311, Tel: (11) 2212-7498"
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Matriz Paroquial Santíssima Trindade",
+        "Address": "Avenida Marechal Fiuza de Castro, 861, Vila São Domingos",
+        "Phone": "Tel: (11) 3735-0461"
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Matriz Paroquial Santíssima Trindade",
+        "Address": "Praça Santíssima Trindade, 02, Vila Celeste",
+        "Phone": "Tel: (11) 2239-3155"
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Comunidade Santíssima Trindade",
+        "Address": "Rua Portal II, 15, Jardim Felicidade (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Comunidade Santíssima Trindade",
+        "Address": "",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santíssima Trindade",
+        "Parish_Community": "Matriz Paroquial Santissima Trindade",
+        "Address": "Rua Antúle Rosa, 1, Conjunto Habitacional Recanto dos Humildes",
+        "Phone": "Tel: (11) 3918-8579"
+    },
+    {
+        "Parish_Name": "Paróquia Santíssimo Sacramento",
+        "Parish_Community": "Matriz Paroquial Santíssimo Sacramento",
+        "Address": "Rua Tutóia, 1125, Paraíso",
+        "Phone": "Tel: (11) 3884-4644, Tel: (11) 3884-4695"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Santíssimo Sacramento (Companhia de Jesus - Jesuítas)",
+        "Address": "Rua Divinópolis, 545, Vila Brasilina",
+        "Phone": "Tel: (11) 5058-0164"
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Capela Santo Antônio de Pádua",
+        "Address": "Rua Cachoeira, 413, Catumbi",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Afonso Maria De Ligório",
+        "Parish_Community": "Matriz Paroquial Santo Afonso Maria de Ligório",
+        "Address": "Rua Doutor Carneiro Maia, 95, Água Funda",
+        "Phone": "Tel: (11) 5077-3283"
+    },
+    {
+        "Parish_Name": "",
+        "Parish_Community": "Santo Agnelo",
+        "Address": "Rua Roberto Duarte Ribas, 38, Vila Liviero",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Agnelo",
+        "Parish_Community": "Matriz Paroquial Santo Agnelo",
+        "Address": "Rua Roberto Duarte Ribas, 38, Vila Liviero",
+        "Phone": "Tel: (11) 2334-2433"
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Agostinho",
+        "Parish_Community": "Comunidade Santo Agostinho",
+        "Address": "Estrada Chica Luiza, 2750, Chácara Jaraguá",
+        "Phone": "Tel: (11) 3945-2634"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Agostinho",
+        "Parish_Community": "Matriz Paroquial Santo Agostinho",
+        "Address": "Praça Santo Agostinho, 37, Aclimação",
+        "Phone": "Tel: (11) 3209-4685"
+    },
+    {
+        "Parish_Name": "Paróquia Jesus Ressuscitado",
+        "Parish_Community": "Comunidade Santo Agostinho",
+        "Address": "Pinheiros da Alencar, s/nº, Vila Bela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Alberto Magno",
+        "Parish_Community": "Matriz Paroquial Santo Alberto Magno",
+        "Address": "Avenida Comendador Alberto Bonfiglioli, 247, Jardim Bonfiglioli",
+        "Phone": "Tel: (11) 3735-4553"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Penha",
+        "Parish_Community": "Comunidade Santo Alfredo e Nossa Senhora do Monte",
+        "Address": "Rua Gal Isidoro Dias Lopes, 112, Vila Amália(Zona Norte)",
+        "Phone": "Tel: (11) 2231-8316"
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Matriz Paroquial Santo André Apóstolo",
+        "Address": "Rua Dias Moreia, 18, Jardim Santo André",
+        "Phone": "Tel: (11) 2753-0961"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Capela Santo Aníbal Maria Di Francia",
+        "Address": "Avenida Santa Marina, 534, Água Branca",
+        "Phone": "Tel: (11) 3619-4200, Tel: (11) 3619-4352"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha",
+        "Parish_Community": "Comunidade Santo Antonio",
+        "Address": "Rua Nuno Mendes Torres, 169, Vila Clarice",
+        "Phone": "Tel: (11) 3906-9639"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Matriz Paroquial Santo Antônio",
+        "Address": "Rua Doutor Natalino Righeto, 390, Tucuruvi",
+        "Phone": "Tel: (11) 2203-2022, Tel: (11) 2267-5390"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Matriz Paroquial Santo Antônio",
+        "Address": "Rua Salvador Tolezano, 164, Parque Mandaqui",
+        "Phone": "Tel: (11) 2231-0675"
+    },
+    {
+        "Parish_Name": "Paróquia São Filipe Neri",
+        "Parish_Community": "Comunidade Santo Antonio",
+        "Address": "Rua Titara, 33, Sítio Pinheirinho",
+        "Phone": "Tel: (11) 2211-8670"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima E São Roque",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua General Porfírio da Paz, 878, Vila Bancária",
+        "Phone": "Tel: (11) 2269-5962"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua Bandeira do Sul, 180, Jardim Tietê",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "São Paulo Apóstolo",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua Comandante Taylor, 1507, Ipiranga",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua Antônio Lopes de Barros, 368, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Matriz Paroquial Santo Antônio",
+        "Address": "Rua Álvaro Fragoso, 674, Vila Carioca",
+        "Phone": "Tel: (11) 2063-6283"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Santo Antonio",
+        "Address": "Rua Furtado Coelho, 364, Jardim Adutora",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua João Baiano, 64, Vila Celeste",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Antônio",
+        "Parish_Community": "Área Pastoral Santo Antônio",
+        "Address": "Travessa Três, Travessa 3, n.º 02, Parque Taipas",
+        "Phone": "Tel: (11) 3945-3881"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Estrada dos Fidélis, 42, Jardim Arantes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua São Cândido, 963, Vila Zat",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Matriz Paroquial Santo Antônio",
+        "Address": "Rua das Imbiras, 220, Vila Nova Mazzei",
+        "Phone": "Tel: (11) 2203-6205"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Comunidade Santo Antônio",
+        "Address": "Rua Fábio Berardi, 21, Jardim São Luís (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Matriz Paroquial Santo Antônio",
+        "Address": "Avenida Professor Celestino Bourroul, 715, Limão",
+        "Phone": "Tel: (11) 4563-5838"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Matriz Paroquial Santo Antônio",
+        "Address": "Rua Doutor Natalino Righeto, 390, Tucuruvi",
+        "Phone": "Tel: (11) 2203-2022, Tel: (11) 2267-5390"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antonio - Barra Funda",
+        "Parish_Community": "Matriz Paroquial Santo Antônio - Barra Funda",
+        "Address": "Rua Cônego Vicente Miguel Marino, 421, Barra Funda",
+        "Phone": "Tel: (11) 3392-6090"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antonio do Pari",
+        "Parish_Community": "Matriz Paroquial Santo Antônio - Pari",
+        "Address": "Praça Padre Bento, s/nº, Canindé",
+        "Phone": "Tel: (11) 3459-1436, Tel: (11) 3459-1434"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja Santo Antonio - Patriarca",
+        "Address": "Praça do Patriarca, 49, Sé",
+        "Phone": "Tel: (11) 3242-2414"
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade Santo Antônio da Juta",
+        "Address": "Rua Alto Jardim, 05, Fazenda da Juta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio De Lisboa",
+        "Parish_Community": "Matriz Paroquial Santo Antônio De Lisboa",
+        "Address": "Rua Santo Antônio de Lisboa, 200, Vila Ede",
+        "Phone": "Tel: (11) 2201-6532, Tel: (11) 2931-6468"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio De Lisboa",
+        "Parish_Community": "Matriz Paroquial Santo Antônio de Lisboa",
+        "Address": "Rua Euclides Pacheco, 1980, Vila Gomes Cardim",
+        "Phone": "Tel: (11) 2097-5493"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio De Pádua",
+        "Parish_Community": "Matriz Paroquial Santo Antônio de Pádua",
+        "Address": "Travessa Montemagno, 842, Chácara Belenzinho",
+        "Phone": "Tel: (11) 2674-4063"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora de Fátima",
+        "Parish_Community": "Comunidade Santo Antônio de Pádua",
+        "Address": "Endereço: Rua Salvador Sala, 235, Vila Piqueri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade Santo Antônio de Pádua",
+        "Address": "Rua Ciríaco Jimenez, 192, Parque Nações Unidas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio de Pádua",
+        "Parish_Community": "Matriz Paroquial Santo Antônio de Pádua",
+        "Address": "Avenida Otacílio Tomanik, 520, Jd. Bonfiglioli",
+        "Phone": "Tel: (11) 3733-5877"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Comunidade Santo Antônio de Sant'Anna Galvão",
+        "Address": "Rua Cosme Damião da Cunha, Viela 1 / N° 110, Jardim Guarani",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Maria Grignion De Montfort",
+        "Parish_Community": "Comunidade Santo Antônio de Taipas",
+        "Address": "Estrada das Taipas, 4042, Jardim Rincão",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio Do Lausanne",
+        "Parish_Community": "Matriz Paroquial Santo Antônio Do Lausanne",
+        "Address": "Rua Conselheiro Moreira de Barros, 2221, Lauzane Paulista",
+        "Phone": "Tel: (11) 2256-7334, Tel: (11) 2238-6341"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade Santo Antônio Frei Galvão",
+        "Address": "Rua Luís de Oliveira Bulhões, 570, Jardim Daysy",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Comunidade Santo Dias da Silva",
+        "Address": "Rua Redução de Guarambaré, 174, Parque São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Eduardo",
+        "Parish_Community": "Matriz Paroquial Santo Eduardo",
+        "Address": "Rua dos Italianos, 567, Bom Retiro",
+        "Phone": "Tel: (11) 3221-5972, Tel: (11) 98990-6890"
+    },
+    {
+        "Parish_Name": "Paróquia Menino Deus",
+        "Parish_Community": "Comunidade Santo Eduardo",
+        "Address": "Praça Padre Nelson José Sigrist, 26, Jardim Tango",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Comunidade Santo Elias",
+        "Address": "Rua Otávio Gonçalves Martins, 293, Jardim Santo Elias",
+        "Phone": "Tel: (11) 3926-2660"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Matriz Paroquial Santo Emídio",
+        "Address": "Rua Ingaí, 67, Vila Prudente",
+        "Phone": "Tel: (11) 2063-1821"
+    },
+    {
+        "Parish_Name": "Santo Estevão",
+        "Parish_Community": "Área Pastoral Santo Estevão",
+        "Address": "Rua Professor Roberto Mange, 237, Vila Santo Estéfano",
+        "Phone": "Tel: (11) 5077-3283"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Estevão Rei",
+        "Parish_Community": "Matriz Paroquial Santo Estevão Rei",
+        "Address": "Rua Martinho de Campos, 420, Vila Anastácio",
+        "Phone": "Tel: (11) 3644-8327"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Comunidade Santo Eugênio de Mazenod",
+        "Address": "Rua Baldomero Lillo, 84, Jardim Lourdes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha",
+        "Parish_Community": "Comunidade Santo Eugenio de Mazenod",
+        "Address": "Rua Geraldo Benedito da Silva, 50, Vila Souza",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora do Carmo",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Estrada Vovó Carolina, 239, Palanque II",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Rua Talha-Mar, 79, Jardim Damasceno",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Rua Ipecaeta, s/nº, Vila Inácio",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Piedade",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Rua Quedas, 55, Vila Isolina Mazzei",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Rua Ipecaeta, s/nº, Vila Inácio",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora do Carmo",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Estrada Vovó Carolina, 239, Palanque II",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade Santo Expedito",
+        "Address": "Rua Águas Claras de Goiais, 74, Monte Belo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja Santo Expedito - Capelania Militar",
+        "Address": "Rua Doutor Jorge Miranda, 264, Luz",
+        "Phone": "Tel: (11) 3313-3237, Tel: (11) 3313-5828"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Inácio de Loiola",
+        "Parish_Community": "Matriz Paroquial Santo Inácio de Loiola",
+        "Address": "Rua França Pinto, 115, Vila Mariana",
+        "Phone": "Tel: (11) 5571-1744"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Ivo",
+        "Parish_Community": "Matriz Paroquial Santo Ivo",
+        "Address": "Largo da Batalha, 189, Jardim Lusitânia",
+        "Phone": "Tel: (11) 5571-8214"
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Comunidade Santo Rosário",
+        "Address": "Rua Giovanni Nasco, 500, Conjunto Habitacional Teotonio Vilela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela Santos Anjos (Colégio)",
+        "Address": "Avenida Iraí, 1330, Indianópolis",
+        "Phone": "Tel: (11) 5055-0744"
+    },
+    {
+        "Parish_Name": "Paróquia Santos Apóstolos",
+        "Parish_Community": "Matriz Paroquial Santos Apóstolos",
+        "Address": "Avenida Itaberaba, 3907, Itaberaba",
+        "Phone": "Tel: (11) 3851-4535, Tel: (11) 3983-1767"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Edwiges",
+        "Parish_Community": "Matriz Paroquial Santuário Santa Edwiges",
+        "Address": "Estrada das Lágrimas, 910, Sacomã",
+        "Phone": "Tel: (11) 2274-2853, Tel: (11) 2274-8646"
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Matriz Paroquial Santuário São Judas Tadeu",
+        "Address": "Avenida Jabaquara, 2682, Jabaquara",
+        "Phone": "Tel: (11) 3504-5700, Tel: (11) 3504-5702"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade São Benedito",
+        "Address": "Rua Teodoro Henrique Maurer Júnior, 22, Vila Hebe",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Paulina",
+        "Parish_Community": "Comunidade São Benedito",
+        "Address": "Rua Vicente Gaspar, 97, Heliópolis",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade São Benedito",
+        "Address": "Rua Jaraqui, 148, Jardim Recanto",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Bom Pastor",
+        "Parish_Community": "Comunidade São Benedito",
+        "Address": "Rua Sítio D'Abadia, 175, Jardim Paulistano (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Benedito",
+        "Parish_Community": "Matriz Paroquial São Benedito",
+        "Address": "Rua Igarité, 338, Vila Nova Carolina",
+        "Phone": "Tel: (11) 2241-1376, Tel: (11) 2241-9302"
+    },
+    {
+        "Parish_Name": "Paróquia São Benedito Das Vitórias",
+        "Parish_Community": "Matriz Paroquial São Benedito Das Vitórias",
+        "Address": "Praça Nossa Senhora das Vitórias, 137, Vila Formosa",
+        "Phone": "Tel: (11) 2674-3559"
+    },
+    {
+        "Parish_Name": "Paróquia São Bernardo De Claraval",
+        "Parish_Community": "Matriz Paroquial São Bernardo De Claraval",
+        "Address": "Rua Aratimbó, 98, Vila Liviero",
+        "Phone": "Tel: (11) 2331-1469"
+    },
+    {
+        "Parish_Name": "Paróquia São Camilo De Lellis",
+        "Parish_Community": "Matriz Paroquial São Camilo De Lellis",
+        "Address": "Rua Tanque Velho, 941, Vila Nivi",
+        "Phone": "Tel: (11) 2981-7082"
+    },
+    {
+        "Parish_Name": "Paróquia São Carlos Borromeu",
+        "Parish_Community": "Matriz Paroquial São Carlos Borromeu",
+        "Address": "Rua Conselheiro Cotegipe, 933, Belenzinho",
+        "Phone": "Tel: (11) 2693-7991, Tel: (11) 2693-0539, Tel: (11) 2692-1477, Tel: (11) 2692-2345"
+    },
+    {
+        "Parish_Name": "Paróquia São Carlos Borromeu",
+        "Parish_Community": "Matriz Paroquial São Carlos Borromeu",
+        "Address": "Rua do Oratório, 3712, Alto da Mooca",
+        "Phone": "Tel: (11) 2965-6084, Tel: (11) 93488-9313"
+    },
+    {
+        "Parish_Name": "Paróquia São José de Vila Zelina",
+        "Parish_Community": "Matriz Paroquial São Casimiro - Pessoal dos Lituanos",
+        "Address": "Praça República Lituana, 74, Vila Zelina",
+        "Phone": "Tel: (11) 2341-5975, Tel: (11) 2341-1886"
+    },
+    {
+        "Parish_Name": "Paróquia São Cristóvão",
+        "Parish_Community": "Matriz Paroquial São Cristóvão",
+        "Address": "Avenida Tiradentes, 84, Luz",
+        "Phone": "Tel: (11) 3227-3790, Tel: (11) 2386-6691"
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade São Daniel Comboni",
+        "Address": "Rua Sargento Hermínio Aurélio Sampaio, 122, Conjunto Habitacional Marechal Mascarenhas de Morais",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Dimas",
+        "Parish_Community": "Matriz Paroquial São Dimas",
+        "Address": "Rua Domingos Fernandes, 588, Vila Nova Conceição",
+        "Phone": "Tel: (11) 3842-0935"
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade São Domingos",
+        "Address": "Rua Miguel Ferreira de Melo, s/nº, Jardim Santo André",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Domingos",
+        "Parish_Community": "Matriz Paroquial São Domingos",
+        "Address": "Rua Caiubi, 164, Perdizes",
+        "Phone": "Tel: (11) 3862-8228"
+    },
+    {
+        "Parish_Name": "São Domingos de Gusmão",
+        "Parish_Community": "Área Pastoral São Domingos de Gusmão",
+        "Address": "Rua Carapiranga, 278, Vila Caraguatá",
+        "Phone": "Tel: (11) 2331-3220"
+    },
+    {
+        "Parish_Name": "Paróquia São Domingos Sávio",
+        "Parish_Community": "Matriz Paroquial São Domingos Sávio",
+        "Address": "Rua Tomás Lopes Ferreira, 131, Parque São Domingos",
+        "Phone": "Tel: (11) 3904-0549"
+    },
+    {
+        "Parish_Name": "Paróquia São Domingos Sávio",
+        "Parish_Community": "Matriz Paroquial São Domingos Sávio",
+        "Address": "Rua Donato Luongo, 196, Vila Vitório Mazzei",
+        "Phone": "Tel: (11) 2203-7998"
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade São Felipe Apóstolo",
+        "Address": "Rua Lourenço do Vale, 195, Jardim São Francisco",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Filipe Neri",
+        "Parish_Community": "Matriz Paroquial São Filipe Neri",
+        "Address": "Avenida São Lucas, 279, Parque São Lucas",
+        "Phone": "Tel: (11) 2211-6817"
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade São Francisco",
+        "Address": "Rua Sargento Hermínio Aurélio Sampaio, s/n, Conjunto Habitacional Marechal Mascarenhas de Morais",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Comunidade São Francisco - Ilha das Cobras",
+        "Address": "Avenida Anhaia Melo, s/n, Vila Prudente",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela São Francisco (Lar Escola)",
+        "Address": "Rua dos Açores, 310, Jardim Luzitânia",
+        "Phone": "Tel: (11) 5904-8058"
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Agostinho",
+        "Parish_Community": "Capela São Francisco Assis",
+        "Address": "Rua Luiz Gonzaga,, 24, Residencial Sol Nascente",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Comunidade São Francisco das Chagas",
+        "Address": "Rua Doutor Araújo Castro, 630, Jardim Peri",
+        "Phone": "Tel: (11) 3851-5784"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Capela São Francisco de Assis",
+        "Address": "Rua Clara de Oliveira, 53, Santa Teresinha",
+        "Phone": "Tel: (11) 2255-1730"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco de Assis",
+        "Parish_Community": "Matriz Paroquial São Francisco de Assis",
+        "Address": "Largo São Francisco, 133, Sé",
+        "Phone": "Tel: (11) 3291-2400"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Amália Cordelli Cardenuto, 48, Cidade São Mateus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Morada Nova de Minas, 140, Cidade Centenário",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Luís Pereira Rebouças, 1100, Jardim Santa Fé (Zona Oeste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Capela São Francisco De Assis",
+        "Address": "Avenida Doutor Cândido Motta Filho, 757, Vila São Francisco",
+        "Phone": "Tel: (11) 3768-4308"
+    },
+    {
+        "Parish_Name": "São José de Anchieta",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Pantaleão Bonfante, 897, Parque São Rafael",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Gualberto",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Boaventura Pereira, 25, Parque Anhaguera",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Face",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Ministro Barros Pimentel, 63, Parque Maria Luiza",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima E São Roque",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Pires Delgado, 335, Jardim Regina",
+        "Phone": "Tel: (11) 2705-5962"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Paz",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Gregório Tagle, s/n, Jardim Ipanema (Zona Oeste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora do Carmo",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Ajuá, 23 A, Jardim São João (São Rafael)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Espírito Santo",
+        "Parish_Community": "Comunidade São Francisco De Assis",
+        "Address": "Rua Júlio Mário Salusse, 317, Vila Penteado",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Retiro",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Avenida Menotti Laudisio, 737, Jardim Cidade Pirituba",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Matriz Paroquial São Francisco De Assis",
+        "Address": "Rua Borges Lagoa, 1209, Vila Clementino",
+        "Phone": "Tel: (11) 5576-7974"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Assis",
+        "Parish_Community": "Matriz Paroquial São Francisco De Assis",
+        "Address": "Rua Manoel Nascimento Pinto, 591, Jardim Guarani",
+        "Phone": "Tel: (11) 3921-3455"
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Travessa Nova Paulista, 630, Jardim Flor de Maio",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Aristeu Valente, 35, Jardim dos Francos",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Maria Grignion De Montfort",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Máximo Barbosa, 66, Jardim Taipas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Maria Grignion De Montfort",
+        "Parish_Community": "Comunidade São Francisco de Assis",
+        "Address": "Rua Máximo Barbosa, 66, Jardim Taipas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Área Pastoral São Francisco de Assis e Nossa Senhora Aparecida",
+        "Address": "Morro das Pedras, 258, Jardim Rodolfo Pirani",
+        "Phone": "Tel: (11) 2753-9699"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Paula e São Benedito",
+        "Parish_Community": "Matriz Paroquial São Francisco de Paula e São Benedito",
+        "Address": "Rua Waldemar Martins, 879, Parque Peruche",
+        "Phone": "Tel: (11) 3858-5173"
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco De Sales",
+        "Parish_Community": "Matriz Paroquial São Francisco de Sales",
+        "Address": "Rua Sebastião do Rego, 164, Vila Gumercindo",
+        "Phone": "Tel: (11) 5061-4841"
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Antônio",
+        "Parish_Community": "Comunidade São Francisco do Sagrado Coração",
+        "Address": "Avenida Fernando Mendes de Almeida, 794, Parque Taipas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Francisco Xavier",
+        "Parish_Community": "Matriz Paroquial São Francisco Xavier",
+        "Address": "Rua Yokoama, 33, Jardim Japão",
+        "Phone": "Tel: (11) 2949-7086"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela São Francisco Xavier (Colégio)",
+        "Address": "Rua Moreira e Costa, 29, Ipiranga",
+        "Phone": "Tel: (11) 3013-0320"
+    },
+    {
+        "Parish_Name": "Paróquia São Gabriel Arcanjo",
+        "Parish_Community": "Matriz Paroquial São Gabriel Arcanjo",
+        "Address": "Avenida São Gabriel, 108, Jardim Paulista",
+        "Phone": "Tel: (11) 3887-4839"
+    },
+    {
+        "Parish_Name": "Paróquia São Gabriel Da Virgem Dolorosa",
+        "Parish_Community": "Matriz Paroquial São Gabriel Da Virgem Dolorosa",
+        "Address": "Rua Professora Maria Hosni Cury, 134, Parque Casa de Pedra",
+        "Phone": "Tel: (11) 2203-6836"
+    },
+    {
+        "Parish_Name": "Paróquia São Geraldo",
+        "Parish_Community": "Matriz Paroquial São Geraldo",
+        "Address": "Largo Padre Péricles, s/nº, Barra Funda",
+        "Phone": "Tel: (11) 3667-0660, Tel: (11) 3667-0070, Tel: (11) 3667-1154"
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Comunidade São Gonçalo",
+        "Address": "Avenida José Rodrigues Santarém, 311, Parque Colonial",
+        "Phone": "Tel: (11) 2919-0385"
+    },
+    {
+        "Parish_Name": "Paróquia São Januário",
+        "Parish_Community": "Matriz Paroquial São Januário",
+        "Address": "Rua da Mooca, 950, Mooca",
+        "Phone": "Tel: (11) 3209-0089, Tel: (11) 3207-1049"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Avenida Alfredo Zunkeller, 620, Parque Mandaqui",
+        "Phone": "Tel: (11) 2235-6189"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Mercedes Baravelle Fraga, 10, Vila João Batista",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Clímaco",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Antônio Annunziato, 57 CDM, Jardim Patente",
+        "Phone": "Tel: (11) 2946-1367"
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista De Vila Ipojuca",
+        "Parish_Community": "Matriz Paroquial São João Batista",
+        "Address": "Rua Tonelero, 967, Vila Ipojuca",
+        "Phone": "Tel: (11) 3865-1727"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Pelicano, 45, Sítio Itaberaba II",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Carmo",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Vicente Iório, 164, Vila Iório",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Cristóvão de Vasconcelos, 231, Jardim Adutora",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Jesus Ressuscitado",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Avenida Mendonça de Vasconcelos, 625, Vila Ester",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Matriz Paroquial São João Batista",
+        "Address": "Largo Senador Morais Barros, s/nº, Brás",
+        "Phone": "Tel: (11) 2693-2645, Tel: (11) 2692-9179"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Padre Manuel Campello, 88, Vila Perus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Padre Miguelinho, 46, Vila Rica",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Vereador Luiz Gonzaga Ferreira, 234, Jardim Santo André",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Piedade",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Estrada da Cachoeira, 794, Jardim São João (Zona Norte)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida Da Boa Viagem",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Boa Vista, 18, Parque Novo Mundo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora De Fátima",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Luiz Soares, 134, Imirim",
+        "Phone": "Tel: (11) 2239-7113"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Maria Madalena",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Flávio Tambellini, 106, Parque Santa Madalena",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Matriz Paroquial São João Batista",
+        "Address": "Rua Rubens de Souza Araújo, 495, Vila Mangalot",
+        "Phone": "Tel: (11) 3904-0798"
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista De Vila Ipojuca",
+        "Parish_Community": "Matriz Paroquial São João Batista",
+        "Address": "Rua Tonelero, 967, Vila Ipojuca",
+        "Phone": "Tel: (11) 3865-1727"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida Da Boa Viagem",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Boa Vista, 18, Parque Novo Mundo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Mercês",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Brigadeiro Amílcar Veloso Pederneiras, 462, Jardim Botucatu",
+        "Phone": "Tel: (11) 4056-7246"
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista",
+        "Parish_Community": "Matriz Paroquial São João Batista",
+        "Address": "Avenida do Café, 688, Vila Guarani",
+        "Phone": "Tel: (11) 2275-4651, Tel: (11) 2639-7511"
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Cristóvão de Vasconcelos, 231, Jardim Adutora",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade São João Batista",
+        "Address": "Rua Padre Miguelinho, 46, Vila Rica",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Alberto Magno",
+        "Parish_Community": "Área Pastoral São João Batista - Mercadinho",
+        "Address": "Rua Francisco dos Santos, 68, Jardim Rizzo",
+        "Phone": "Tel: (11) 2389-9214"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade São João Batista e Nossa Senhora dos Pobres",
+        "Address": "Rua Pedro Vaz Rego, 288, Jardim Daysy",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Batista Precursor e São João Batista Scalabrini",
+        "Parish_Community": "Matriz Paroquial São João Batista Precursor e São João Batista Scalabrini",
+        "Address": "Rua Doutor Mário Vicente, 1108, Ipiranga",
+        "Phone": "Tel: (11) 2215-2766"
+    },
+    {
+        "Parish_Name": "Paróquia São João Bosco",
+        "Parish_Community": "Matriz Paroquial São João Bosco",
+        "Address": "Rua Cerro Corá, 2101, Alto da Lapa",
+        "Phone": "Tel: (11) 3022-5437"
+    },
+    {
+        "Parish_Name": "Paróquia São João Clímaco",
+        "Parish_Community": "Matriz Paroquial São João Clímaco",
+        "Address": "Largo São João Clímaco, 4, São João Clímaco",
+        "Phone": "Tel: (11) 2679-1766"
+    },
+    {
+        "Parish_Name": "Paróquia São João Evangelista",
+        "Parish_Community": "Matriz Paroquial São João Evangelista",
+        "Address": "Rua João Rudge, 611, Casa Verde",
+        "Phone": "Tel: (11) 3965-6586"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade São João Evangelista",
+        "Address": "Rua Vercínio Pereira de Souza, 274, Jardim Tietê",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Nossa Senhora do Carmo",
+        "Parish_Community": "Comunidade São João Evangelista",
+        "Address": "Antônio Bastos, 17, Jardim São João",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São João Gualberto",
+        "Parish_Community": "Matriz Paroquial São João Gualberto",
+        "Address": "Rua Miguel Pereira Landim, 85, Jardim Jaraguá",
+        "Phone": "Tel: (11) 3904-4960"
+    },
+    {
+        "Parish_Name": "Paróquia São João Maria Vianney",
+        "Parish_Community": "Matriz Paroquial São João Maria Vianney",
+        "Address": "Praça Cornélia, s/n, Água Branca",
+        "Phone": "Tel: (11) 3862-1616"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade São João XXIII",
+        "Address": "Rua Alabano, 160, Jardim Russo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Joaquim",
+        "Parish_Community": "Matriz Paroquial São Joaquim",
+        "Address": "Avenida Lacerda Franco, 02, Cambuci",
+        "Phone": "Tel: (11) 3208-3236"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Terezinha",
+        "Parish_Community": "Comunidade São Joaquim",
+        "Address": "Rua Ipiroldes Martins Borges, 163, Vila João Batista",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua São Procópio, 73, Vila Califórnia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Área Pastoral São José",
+        "Address": "Rua do Ushikichi kamiya, 01, Parque Casa de Pedra",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José",
+        "Address": "Rua Brigadeiro Jordão, 560, Ipiranga",
+        "Phone": "Tel: (11) 2063-1818, Tel: (11) 2063-2523"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua do Jacarandá Mimoso, 191, Jd .Arantes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Anunciação",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Avenida Nadir Dias de Figueiredo, 1804, Vila Guilherme",
+        "Phone": "Tel: (11) 2631-2911"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua Márcio Henrique Geenen, 14, Vila Irmãos Arnoni",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José",
+        "Address": "Rua Dinamarca, 32, Jardim Europa",
+        "Phone": "Tel: (11) 3085-1506, Tel: (11) 3082-2677"
+    },
+    {
+        "Parish_Name": "Paróquia São José Do Belém",
+        "Parish_Community": "Capela São José",
+        "Address": "Sebastião Pereira de Souza, 15, Belenzinho",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua Paulo Arentino, 90, Conjunto City Jaraguá",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José",
+        "Address": "Rua Ribeirão das Almas, 337, Vila Palmeira",
+        "Phone": "Tel: (11) 3931-5056"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Avenida Marechal Eurico Gaspar Dutra, 1.877, Parada Inglesa",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua Carlos Schumacker, 14, Jardim Elisa Maria",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Anunciação",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Avenida Nadir Dias de Figueiredo, 1804, Vila Guilherme",
+        "Phone": "Tel: (11) 2631-2911"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua Márcio Henrique Geenen, 14, Vila Irmãos Arnoni",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Antônio",
+        "Parish_Community": "Comunidade São José",
+        "Address": "Rua José Lopes, Travessa 4 Nº 20, Parque Taipas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Do Belém",
+        "Parish_Community": "Capela São José",
+        "Address": "Sebastião Pereira de Souza, 15, Belenzinho",
+        "Phone": "Tel: (11) 2693-1548, Tel: (11) 2528-1548"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José",
+        "Address": "Rua Brigadeiro Jordão, 560, Ipiranga",
+        "Phone": "Tel: (11) 2063-1818, Tel: (11) 2063-2523"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José",
+        "Address": "Rua Ribeirão das Almas, 337, Vila Palmeira",
+        "Phone": "Tel: (11) 3931-5056"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José",
+        "Address": "Rua Bartolomeu de Ribeira, 33, Jaguaré",
+        "Phone": "Tel: (11) 3768-2781"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade São José (Favela)",
+        "Address": "Rua Barbeiro de Sevilha, s/n, Vila Rosa Molla",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela São José (Instituto Meninos de São Judas Tadeu)",
+        "Address": "Avenida Itacira, 2801, Planalto Paulista",
+        "Phone": "Tel: (11) 5586-8666"
+    },
+    {
+        "Parish_Name": "São José de Anchieta",
+        "Parish_Community": "Matriz Paroquial São José de Anchieta",
+        "Address": "Rua Fernandes Tourinho, 182, Jardim Vera Cruz(Zona Leste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "São José de Anchieta",
+        "Parish_Community": "Matriz Paroquial São José de Anchieta",
+        "Address": "Rua Francisco Lustosa, 182, Jardim Vera Cruz(Zona Leste)",
+        "Phone": "Tel: (11) 2012-4743"
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Sé",
+        "Parish_Community": "Igreja São José de Anchieta (Pátio do Colégio)",
+        "Address": "Largo Pátio do Colégio, 34, Centro",
+        "Phone": "Tel: (11) 3105-6899"
+    },
+    {
+        "Parish_Name": "Paróquia São José de Vila Zelina",
+        "Parish_Community": "Matriz Paroquial São José De Vila Zelina",
+        "Address": "Praça República Lituana, 74, Vila Zelina",
+        "Phone": "Tel: (11) 2341-5975, Tel: (11) 2341-1886"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Matriz Paroquial São José do Mandaqui",
+        "Address": "Rua Voluntários da Pátria, 4840, Mandaqui",
+        "Phone": "Tel: (11) 2977-6558, Tel: (11) 2978-3237"
+    },
+    {
+        "Parish_Name": "Paróquia São José Do Maranhão",
+        "Parish_Community": "Matriz Paroquial São José Do Maranhão",
+        "Address": "Largo São José do Maranhão, 180, Maranhão",
+        "Phone": "Tel: (11) 2294-0288"
+    },
+    {
+        "Parish_Name": "Paróquia São José Esposo Da Virgem Maria",
+        "Parish_Community": "Matriz Paroquial São José Esposo Da Virgem Maria",
+        "Address": "Rua dos Gauleses, 266, Jardim Guanca",
+        "Phone": "Tel: (11) 2949-5906, Tel: (11) 2579-0995"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Batista Fergusio, 142, Vila Cardoso Franco",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Matriz Paroquial São José Operário",
+        "Address": "Avenida Hugo Ítalo Merigo, 1152, Jardim Damasceno",
+        "Phone": "Tel: (11) 3923-7179"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Paulina",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Luta da Terra, 30A, Cidade Nova Heliópolis",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua São Felipe, 39, Parque Vila Maria",
+        "Phone": "Tel: (11) 2967-1762"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Matriz Paroquial São José Operário",
+        "Address": "Rua José Gomes de Gouveia, 201, Vila Nova Galvão",
+        "Phone": "Tel: (11) 2241-1598, Tel: (11) 2240-7645"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Matriz Paroquial São José Operário",
+        "Address": "Alameda Afonso Schmidt, 96, Santa Teresinha",
+        "Phone": "Tel: (11) 2973-1726, Tel: (11) 2950-8842"
+    },
+    {
+        "Parish_Name": "Paróquia Espírito Santo",
+        "Parish_Community": "Capela São José Operário",
+        "Address": "Rua Júlio Mário Salusse, 22, Vila Penteado",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "",
+        "Parish_Community": "São José Operário",
+        "Address": "Oscar Muller, 140, Jardim Ingaí",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Sonata Aurora, 380, Jardim Paraguaçu",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Manuel Isidoro Brenhas, 03, Jaraguá",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Poços de Caldas, 16, Cidade Centenário",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Emídio",
+        "Parish_Community": "Área Pastoral São José Operário",
+        "Address": "Rua Dianópolis - de 701/702 ao fim, s/n, Parque da Mooca",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Paulina",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Luta da Terra, 30A, Cidade Nova Heliópolis",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "",
+        "Parish_Community": "São José Operário",
+        "Address": "Oscar Muller, 140, Jardim Ingaí",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Matriz Paroquial São José Operário",
+        "Address": "Rua José Gomes de Gouveia, 201, Vila Nova Galvão",
+        "Phone": "Tel: (11) 2241-1598, Tel: (11) 2240-7645"
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Matriz Paroquial São José Operário",
+        "Address": "Alameda Afonso Schmidt, 96, Santa Teresinha",
+        "Phone": "Tel: (11) 2973-1726, Tel: (11) 2950-8842"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Batista Fergusio, 142, Vila Cardoso Franco",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Sonata Aurora, 380, Jardim Paraguaçu",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz De Itaberaba",
+        "Parish_Community": "Comunidade São José Operário",
+        "Address": "Rua Montreal, 76, Parque São Luís",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Divino Espírito Santo",
+        "Parish_Community": "Comunidade São Judas",
+        "Address": "Rua Eng. Sá Freire, 74, Jardim Angela",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Avenida Maria Cursi, 1331, Cidade São Mateus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Agostinho",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua Euclides da Cunha5, 705, Conjunto Residencial Morada do Sol",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua Gregório Petondi, 16, Fazenda da Juta",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio De Lisboa",
+        "Parish_Community": "Capela São Judas Tadeu",
+        "Address": "Rua Guilherme Baer, 90, Vila Ede",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Matriz Paroquial São Judas Tadeu",
+        "Address": "Rua Padre Estevão Pernet, 1484, Vila Gomes Cardim",
+        "Phone": "Tel: (11) 2296-5635"
+    },
+    {
+        "Parish_Name": "Paróquia Natividade Do Senhor",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua das Andorinhas Migratórias, 66, Vila Ayrosa",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Retiro",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua Marilac, 39, Vila Mirante",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua Doutor Francisco Eugênio do Amaral, 71, Jardim Peri Alto",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Judas Tadeu",
+        "Parish_Community": "Matriz Paroquial São Judas Tadeu",
+        "Address": "Rua João Alves Pimenta, 152, Vila Miriam",
+        "Phone": "Tel: (11) 3975-2121, Tel: (11) 3991-8214"
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua Árvore de São Tomás, s/nº, Jardim Russo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade São Judas Tadeu",
+        "Address": "Rua Cinira Polônio, 476, Conjunto Promorar Rio Claro",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Livração",
+        "Parish_Community": "Comunidade São Judas Tadeu e Santa Rita",
+        "Address": "Rua Álvaro dos Santos, 499, Jardim Brasil (Zona Norte)",
+        "Phone": "Tel: (11) 2987-0684"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Mercês",
+        "Parish_Community": "Comunidade São Lourenço",
+        "Address": "Rua Valdomiro Lobo da Costa, 77, Vila das Mercês",
+        "Phone": "Tel: (11) 2946-4189, Tel: (11) 2940-5118"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Aparecida",
+        "Parish_Community": "Comunidade São Lucas",
+        "Address": "Rua Tuma Maluly, 47, Jardim Catarina",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Imaculada Conceição",
+        "Parish_Community": "Comunidade São Lucas",
+        "Address": "Rua Amadeu Massaroto, 16, Jardim Sapopemba",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela São Lucas (Hospital Ipiranga)",
+        "Address": "Avenida Nazaré, 28, Ipiranga",
+        "Phone": "Tel: (11) 2067-7799"
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade São Lucas e União dos Apóstolos",
+        "Address": "Rua Vasconcelos Barros, 37, Jardim Rossin",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Gonzaga",
+        "Parish_Community": "Matriz Paroquial São Luís Gonzaga",
+        "Address": "Avenida Paulista, 2378, Bela Vista",
+        "Phone": "Tel: (11) 3231-5954"
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Gonzaga",
+        "Parish_Community": "Matriz Paroquial São Luís Gonzaga",
+        "Address": "Praça Dom Pedro Fulco Morvidi, 1, Vila Pereira Barreto",
+        "Phone": "Tel: (11) 3975-6790"
+    },
+    {
+        "Parish_Name": "Paróquia São Luís Maria Grignion De Montfort",
+        "Parish_Community": "Matriz Paroquial São Luís Maria Grignion De Montfort",
+        "Address": "Rua Doutor Carmelo D'Agostino, 149, Jardim Rincão",
+        "Phone": "Tel: (11) 3941-1868"
+    },
+    {
+        "Parish_Name": "Paróquia São Luiz Gonzaga",
+        "Parish_Community": "Matriz Paroquial São Luiz Gonzaga",
+        "Address": "Rua Michel Ouchana, 50, Jaçanã",
+        "Phone": "Tel: (11) 2241-8986"
+    },
+    {
+        "Parish_Name": "Paróquia São Luiz Gonzaga",
+        "Parish_Community": "Matriz Paroquial São Luiz Gonzaga",
+        "Address": "Rua Orminda, 214, Vila Santa Maria",
+        "Phone": "Tel: (11) 3965-6299"
+    },
+    {
+        "Parish_Name": "Paróquia Santo Antônio Do Lausanne",
+        "Parish_Community": "Comunidade São Marcos",
+        "Address": "Rua Tarquinio de Sousa, 54, Avenida Guacá",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade São Marcos",
+        "Address": "Rua Acácio de Paula Leite Sampaio, 59, Jardim Tietê",
+        "Phone": "Tel: (11) 3384-4597"
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Antônio",
+        "Parish_Community": "Comunidade São Marcos",
+        "Address": "Rua Nilo Bruzzi, 3 A, Sítio Botuquara",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Comunidade São Marcos",
+        "Address": "Rua Tarquínio de Sousa, 54, Vila Guaca",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora da Penha",
+        "Parish_Community": "Comunidade São Marcos ( Nossa Senhora Da Penha)",
+        "Address": "Rua Ita, 313, Vila Santos",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Matriz Paroquial São Marcos Evangelista",
+        "Address": "Rua Ita, 313, Vila Santos",
+        "Phone": "Tel: (11) 2231-2328"
+    },
+    {
+        "Parish_Name": "Paróquia São Marcos Evangelista",
+        "Parish_Community": "Matriz Paroquial São Marcos Evangelista",
+        "Address": "Professor Ciro Formicola, 17, Parque São Rafael",
+        "Phone": "Tel: (11) 2011-3303"
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus",
+        "Parish_Community": "Matriz Paroquial São Mateus",
+        "Address": "Avenida Professor José Maria Alkmin, 254, Jardim Esmeralda",
+        "Phone": "Tel: (11) 3719-5679"
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Comunidade São Mateus",
+        "Address": "Rua Antônio de Pádua Alves de Lima, 133, Vila Nova",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Cruz",
+        "Parish_Community": "Comunidade São Mateus",
+        "Address": "Rua Gervásio Leite Rebelo, 538 A, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Cristo Rei",
+        "Parish_Community": "Área Pastoral São Matheus",
+        "Address": "Rua Antônio de Pádua Alves de Lima, 133, Jardim Santa Fé (Zona Oeste)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José",
+        "Parish_Community": "Comunidade São Matheus",
+        "Address": "Rua Mogeiro, 1013, Vila Inácio",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Matriz Paroquial São Miguel Arcanjo",
+        "Address": "Travessa Pé de Manacá, 57, Jardim da Conquista (Zona Leste)",
+        "Phone": "Tel: (11) 2736-2248"
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Matriz Paroquial São Miguel Arcanjo",
+        "Address": "Taquari, 1100, Mooca",
+        "Phone": "Tel: (11) 2692-6798"
+    },
+    {
+        "Parish_Name": "Paróquia São Luiz Gonzaga",
+        "Parish_Community": "Comunidade São Miguel Arcanjo ( São Luiz Gonzaga)",
+        "Address": "Rua Maria Elisa Siqueira, 219, Vila Prado",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade São Nicolau",
+        "Address": "Rua Arnaldo Pedroso D&#39;Horta, 56, Vila Elze",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade São Nicolau de Tolentino",
+        "Address": "Avenida Tenente Amaro Felicíssimo da Silveira - lado ímpar, 665 – Bloco 15 Apto 54, Parque Novo Mundo",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Patrício",
+        "Parish_Community": "Capela São Paschoal Baylon",
+        "Address": "Avenida José Joaquim Seabra, 1269, Rio Pequeno",
+        "Phone": "Tel: (11) 3768-3203"
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Paulo Apóstolo",
+        "Address": "Rua Quedas, 564, Vila Isolina Mazzei",
+        "Phone": "Tel: (11) 2283-1619"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade São Paulo Apóstolo",
+        "Address": "Rua Antônio de Pádua Dias, 148, Perus",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Paulo Apóstolo",
+        "Address": "Tobias Barreto, 1320, Mooca",
+        "Phone": "Tel: (11) 2605-4100, Tel: (11) 3571-0860"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Comunidade São Paulo Apostolo",
+        "Address": "Rua Guiomar Novaes, 513, Jardim Santa Lucrécia",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Paulo Apóstolo",
+        "Address": "Miguel Ramos de Moura, 86, Jardim IV Centenário (Zona Leste)",
+        "Phone": "Tel: (11) 2725-1398"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Mãe Rainha",
+        "Parish_Community": "Comunidade São Paulo Apóstolo",
+        "Address": "Rua Friedrich Von Voith, 1790, Jardim São João (Jaraguá)",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Gabriel Da Virgem Dolorosa",
+        "Parish_Community": "Comunidade São Paulo da Cruz",
+        "Address": "Rua Bartolomeu Pagano, 46, Vila Dorna",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Paulo da Cruz (Calvário)",
+        "Parish_Community": "Matriz Paroquial São Paulo da Cruz (Calvário)",
+        "Address": "Rua Cardeal Arcoverde, 950, Pinheiros",
+        "Phone": "Tel: (11) 3085-1307"
+    },
+    {
+        "Parish_Name": "Paróquia Imaculado Coração De Maria",
+        "Parish_Community": "Comunidade São Pedro",
+        "Address": "Rua Daniel Cerri, 27, Jardim Paraná",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Capela São Pedro",
+        "Address": "Rua Carlos de Campos, 278, Pari",
+        "Phone": "Tel: (11) 2693-7985, Tel: (11) 2796-6842"
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Comunidade São Pedro",
+        "Address": "Rua Soldado Paulo Damázio Rola, 93, Conjunto Habitacional Marechal Mascarenhas de Morais",
+        "Phone": "Tel: (11) 2962-6560"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rosa De Lima",
+        "Parish_Community": "Comunidade São Pedro Apóstolo",
+        "Address": "Rua Aipim, 39, Vila Fanton",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Pedro Apóstolo",
+        "Address": "Avenida Alberto Ramos, 614, Jardim Independência",
+        "Phone": "Tel: (11) 2211-4241"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Pedro Apóstolo",
+        "Address": "Avenida do Oratório, 6276, Vila Industrial",
+        "Phone": "Tel: (11) 2143-1546"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Pedro Apóstolo",
+        "Address": "Rua Ibitinga, 838, Vila Oratório",
+        "Phone": "Tel: (11) 2965-4127, Tel: (11) 2965-0425"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Teresa de Calcutá",
+        "Parish_Community": "Comunidade São Pedro Apóstolo",
+        "Address": "Rua Serra dos Milagres, s/n, Jardim Nova Vitória I",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Mateus Apóstolo",
+        "Parish_Community": "Comunidade São Pedro Apóstolo",
+        "Address": "Rua Borda do Campo, 12 B, Jardim Cinco de Julho",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Santo André Apóstolo",
+        "Parish_Community": "Comunidade São Pedro Apóstolo",
+        "Address": "Avenida dos Sertanistas, 26-D, Jardim Santo André",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Do Retiro",
+        "Parish_Community": "Comunidade São Pedro Apóstolo",
+        "Address": "Rua Manuel Ribeiro Rosa, 326, Jardim Cidade Pirituba",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Da Conceição",
+        "Parish_Community": "Comunidade São Pedro Apóstolo",
+        "Address": "Rua Mauro de Araújo Ribeiro, 662, Cidade D'Abril",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Pedro Apóstolo",
+        "Address": "Rua Corcovado, 179, Central Parque",
+        "Phone": "Tel: (11) 3611-5752, Tel: (11) 3586-3270"
+    },
+    {
+        "Parish_Name": "Paróquia São Pedro Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Pedro Apóstolo",
+        "Address": "Rua Maria Amália Lopes Azevedo, 222 A, Vila Albertina",
+        "Phone": "Tel: (11) 2203-2159, Tel: (11) 2994-1939"
+    },
+    {
+        "Parish_Name": "Paróquia Nossa Senhora Das Graças",
+        "Parish_Community": "Comunidade São Pedro e D. Paulo Evaristo Arns",
+        "Address": "Rua Batista Fergusio, 588, Vila Cardoso Franco",
+        "Phone": "Tel: (11) 2703-2175"
+    },
+    {
+        "Parish_Name": "Área Pastoral Santo Antônio",
+        "Parish_Community": "Comunidade São Pio de Pietrelcina",
+        "Address": "Rua Barra da Buriquioca, 40, Parque Taipas",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Pio X e Santa Luzia",
+        "Parish_Community": "Matriz Paroquial São Pio X e Santa Luzia",
+        "Address": "Avenida Sapopemba, 1500, Vila Regente Feijó",
+        "Phone": "Tel: (11) 2965-5333"
+    },
+    {
+        "Parish_Name": "Paróquia São Rafael",
+        "Parish_Community": "Matriz Paroquial São Rafael",
+        "Address": "Largo São Rafael, s/nº, Mooca",
+        "Phone": "Tel: (11) 2292-4528"
+    },
+    {
+        "Parish_Name": "Paróquia São Roque",
+        "Parish_Community": "Matriz Paroquial São Roque",
+        "Address": "Rua João Roque, 114/130, Imirim",
+        "Phone": "Tel: (11) 3981-1983"
+    },
+    {
+        "Parish_Name": "Paróquia Sagrada Família",
+        "Parish_Community": "Comunidade São Sebastião",
+        "Address": "Rua São Roque de Minas, 314, Jardim Peri",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São Sebastião",
+        "Parish_Community": "Matriz Paroquial São Sebastião",
+        "Address": "Praça Stélio Machado Loureiro, 01, Vila Guilherme",
+        "Phone": "Tel: (11) 2901-7346"
+    },
+    {
+        "Parish_Name": "Paróquia São Tomás More",
+        "Parish_Community": "Matriz Paroquial São Tomás More",
+        "Address": "Rua Juvevé, 52, Vila Dalva",
+        "Phone": "Tel: (11) 3761-1447"
+    },
+    {
+        "Parish_Name": "Paróquia São Vicente De Paulo",
+        "Parish_Community": "Matriz Paroquial São Vicente de Paulo",
+        "Address": "Praça Frederico Ozanan, 1, Moinho Velho",
+        "Phone": "Tel: (11) 2915-0880, Tel: (11) 2915-0885"
+    },
+    {
+        "Parish_Name": "Paróquia Santa Rita De Cássia",
+        "Parish_Community": "Comunidade São Vicente de Paulo",
+        "Address": "Avenida São João, 132, Parque Vila Maria",
+        "Phone": "Tel: (11) 2967-1762"
+    },
+    {
+        "Parish_Name": "Paróquia São Vicente Pallotti e S.Pedro Apóstolo",
+        "Parish_Community": "Matriz Paroquial São Vicente Pallotti E S.Pedro Apóstolo",
+        "Address": "Augusto Andreazzi, 123, Vila Antonina",
+        "Phone": "Tel: (11) 2673-1060"
+    },
+    {
+        "Parish_Name": "Paróquia São Vito Mártir",
+        "Parish_Community": "Matriz Paroquial São Vito Mártir",
+        "Address": "Rua Polignano A'Mare, 51, Brás",
+        "Phone": "Tel: (11) 3227-2296"
+    },
+    {
+        "Parish_Name": "Paróquia Senhor Bom Jesus dos Passos",
+        "Parish_Community": "Matriz Paroquial Senhor Bom Jesus dos Passos",
+        "Address": "Praça Portugal, 20, Jardim América",
+        "Phone": "Tel: (11) 3085-9740"
+    },
+    {
+        "Parish_Name": "Paróquia Santos Apóstolos",
+        "Parish_Community": "Comunidade Senhor do Bonfim",
+        "Address": "Praça Senhor do Bonfim, 116, Parque São Luís",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Paróquia São José Operário",
+        "Parish_Community": "Comunidade Três Cruzes",
+        "Address": "Estrada Três Cruzes, 712, Três Cruzes",
+        "Phone": null
+    },
+    {
+        "Parish_Name": "Mosteiros, Igrejas Históricas, Oratórios da Região Ipiranga",
+        "Parish_Community": "Capela UNIFAI - Campus II",
+        "Address": "Rua Afonso Celso, 671/711, Vila Mariana",
+        "Phone": "Tel: (11) 5087-0199"
+    },
+    {
+        "Parish_Name": "Paróquia São Miguel Arcanjo",
+        "Parish_Community": "Capela Universidade São Judas Tadeu",
+        "Address": "Taquari, 546, Mooca",
+        "Phone": "Tel: (11) 2799-1877"
+    }
+]
