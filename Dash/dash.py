@@ -19,8 +19,14 @@ class Dash(GetEnvVars):
         tab1, tab2 = st.tabs(["Data", "Map"])
 
         with tab1:
-            st.write("### DataFrame")
+            st.write("### DataFrames")
             st.data_editor(df)
+            save_button = st.button(label="JSON", type="primary")
+            if save_button:
+                result = df.to_json(force_ascii=False, indent=4)
+                with open('Scrappers/results.json', 'w', encoding='utf-8') as json_file:
+                    json_file.write(result)
+                    st.success("Data was successfully saved!")
 
         with tab2:
             fig = px.scatter_mapbox(df, 
