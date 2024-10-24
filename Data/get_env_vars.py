@@ -1,7 +1,7 @@
-import os
 from dataclasses import dataclass
+from dotenv import dotenv_values
 
-
+env_vars = dotenv_values('Data/.env')
 @dataclass
 class GetEnvVars:
-    map_box_key: str = os.getenv('MAPBOX_KEY', 'default_value')
+    map_box_key: str = env_vars['MAPBOX_KEY']
