@@ -5,3 +5,4 @@ env_vars = dotenv_values('Data/.env')
 @dataclass
 class GetEnvVars:
     map_box_key: str = env_vars['MAPBOX_KEY']
+    
