@@ -2,6 +2,8 @@ import streamlit as st
 from dataclasses import dataclass
 from st_aggrid import AgGrid, GridUpdateMode
 from st_aggrid.grid_options_builder import GridOptionsBuilder
+from Miscellaneous.utils import get_latitude_longitude
+import pandas as pd
 
 @dataclass
 class DataTab:
@@ -35,11 +37,25 @@ class DataTab:
         st.session_state['df'] = grid_response['data']
 
     def render_buttons(self, c1, c2, input_text, position):
+
         with c1:
             self.render_save_button()
-
+            
         with c2:
             self.render_create_column_button(input_text, position)
+
+        with st.spinner('Please wait...'):
+            self.render_get_latitude_longitude_button()
+
+    def render_get_latitude_longitude_button(self):
+
+        lat_long_button = st.button(label="Get coordinates", type="primary")
+
+        if lat_long_button:
+            st.session_state['df'][['Latitude', 'Longitude']] = (
+                st.session_state['df']['Address'].apply(lambda address: pd.Series(get_latitude_longitude(address, st.session_state['map_box_key'])))
+            )
+            st.success("Done!")
 
     def render_save_button(self):
         save_button = st.button(label="Save JSON", type="primary")
@@ -47,7 +63,7 @@ class DataTab:
             result = st.session_state.df.to_json(force_ascii=False, indent=4)
             with open('Scrappers/results.json', 'w', encoding='utf-8') as json_file:
                 json_file.write(result)
-            st.success("Data was successfully saved!")
+            st.success("Data saved!")
 
     def render_create_column_button(self, input_text, position):
         create_column_button = st.button(

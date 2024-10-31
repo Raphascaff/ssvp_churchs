@@ -12,7 +12,8 @@ class SessionManager(GetEnvVars):
         
         defaults = {
                         'df': initial_df.copy(),
-                        'map_box_key': self.map_box_key
+                        'map_box_key': self.map_box_key,
+                        'run_button': True
                     }
         for key, default in defaults.items():
             if key not in st.session_state:
